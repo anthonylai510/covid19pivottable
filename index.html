@@ -49,13 +49,12 @@
          ],
          server: {
            fileProxyEnabled: 0,          // enable/disable file Proxy 1/0
-           fileProxy: 'http://localhost:8003/wpt/fileProxy',  // Server proxy for cross domain file acess
-           fileTimeout: 30000,
-           xmlaProxyEnabled: 1,        // enable/disable Xmla Proxy 1/0
-           xmlaProxy: 'http://demo.webpivottable.com/wpt/xmlaProxy', // Server proxy for cross domain xmla access
-           xmlaTimeout: 30000,
+           //fileProxy: 'http://localhost:8003/wpt/fileProxy',  // Server proxy for cross domain file acess
+           //fileTimeout: 30000,
+           //xmlaProxyEnabled: 1,        // enable/disable Xmla Proxy 1/0
+           //xmlaProxy: 'http://demo.webpivottable.com/wpt/xmlaProxy', // Server proxy for cross domain xmla access
+           //xmlaTimeout: 30000,
          },
-
        });
 
        wpt.addEventListener(wpt.Constants.eventType.NEW_WPT, function(event) {
@@ -74,11 +73,13 @@
          console.log("customize drillthrough", event);
        });
 
-        wpt.setWptFromWptUrl("https://anthonylai510.github.io/covid19pivottable/data/US-COVID19-Trend.wpt");
+       // wpt.setWptFromWptUrl("https://anthonylai510.github.io/covid19pivottable/data/US-COVID19-Trend.wpt");
 
        $('#case-select').on('change', function() {
          var value = this.value;
          if (value) {
+           var new_text = "US COVID-19 " + value + " Cases Trend"
+           $("#header_text").html(new_text);
            var wpt = $('web-pivot-table')[0];
            <!-- wpt.setLocale(value); -->
            wpt.setWptFromWptUrl("https://anthonylai510.github.io/covid19pivottable/data/US-COVID19-Trend-" + value + ".wpt");
@@ -91,7 +92,7 @@
 
 <body>
   <div style="padding:10px;">
-    <h3 style="text-align: center;margin:0;">US COVID-19 Confirmed Cases Trend</h3>
+    <h3 id="header_text" style="text-align: center;margin:0;">US COVID-19 Confirmed Cases Trend</h3>
     <div>
       Switch Case:
       <select id="case-select">
@@ -102,7 +103,6 @@
         <option value="Active">Active</option>
       </select>
     </div>
-	
   </div>
 
   <div id="wpt-container">
