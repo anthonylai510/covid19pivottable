@@ -78,11 +78,13 @@
        $('#case-select').on('change', function() {
          var value = this.value;
          if (value) {
-           var new_text = "US COVID-19 " + value + " Cases Trend"
+           var res = value.split(" ");
+           //console.log(res)
+           var new_text = res[0] + " COVID-19 " + res[1] + " Cases Trend"
            $("#header_text").html(new_text);
            var wpt = $('web-pivot-table')[0];
            <!-- wpt.setLocale(value); -->
-           wpt.setWptFromWptUrl("https://anthonylai510.github.io/covid19pivottable/data/US-COVID19-Trend-" + value + ".wpt");
+           //wpt.setWptFromWptUrl("https://anthonylai510.github.io/covid19pivottable/data/US-COVID19-Trend-" + value + ".wpt");
          }
        });
      });
@@ -97,10 +99,14 @@
       Switch Case:
       <select id="case-select">
         <option value="" selected disabled hidden>Choose here</option>
-        <option value="Confirmed">Confirmed</option>
-        <option value="Deaths">Deaths</option>
-        <option value="Recovered">Recovered</option>
-        <option value="Active">Active</option>
+        <option value="US Confirmed">US Confirmed</option>
+        <option value="US Deaths">US Deaths</option>
+        <option value="US Recovered">US Recovered</option>
+        <option value="US Active">US Active</option>
+        <option value="World Confirmed">World Confirmed</option>
+        <option value="World Deaths">World Deaths</option>
+        <option value="World Recovered">World Recovered</option>
+        <option value="World Active">World Active</option>
       </select>
     </div>
   </div>
