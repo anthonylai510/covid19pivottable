@@ -7,7 +7,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width,initial-scale=1">
 
-  <title>WebPivotTable Component</title>
+  <title>COVID-19 WebPivotTable</title>
 
   <style type="text/css">
     html, body, #wpt-container {width:100%;height:100%; padding:0; margin:0;}
@@ -25,12 +25,23 @@
          },
          uiFlags: {
            report: 0,
+           setting: 0,
+           dropPrompt: 0, //disable dropPrompt
+           connectSource: 0, //disable connectSource
+           open: 0, //disable open wpt
+           pivotPrompt: 0,
+           export: 0,
+           source: 0,
+           save: 0,
+           reset: 0,
+           localeSwitch: 0,
+           fullScreen: 0,
          },
          customHandlers: {
            connectSource: 0,
            openWpt: 1,
            saveWpt: 1,
-           drillThrough: 1
+           drillThrough: 0
          },
          filestack: {
            enabled: true,
@@ -77,8 +88,11 @@
        //});
 
        // wpt.setWptFromWptUrl("https://anthonylai510.github.io/covid19pivottable/data/US-COVID19-Trend.wpt");
-       //$("#header_text").html("US COVID19 Confirmed DailyTotal Cases");
-       //wpt.setWptFromWptUrl("/covid19pivottable/data/US-COVID19-Trend-Confirmed-DailyTotal.wpt");
+       $("#header_text").html("US COVID19 Confirmed DailyTotal Cases");
+       wpt.setWptFromWptUrl("/covid19pivottable/data/US-COVID19-Trend-Confirmed-DailyTotal.wpt");
+
+       wpt.hideControlPanel();
+       //wpt.toggleControlPanel();
 
        $('#case-select').on('change', function() {
          var value = this.value;
@@ -110,25 +124,26 @@
 
 <body>
   <div style="padding:10px;">
-    <h3 id="header_text" style="text-align: center;margin:0;"></h3>
+    <h3 id="header_text" style="text-align: left;margin:0;"></h3>
+    <br>
     <div>
       Switch Case:
       <select id="case-select">
-        <option value="" selected disabled hidden>Choose here</option>
-        <option value="US Confirmed DailyTotal">US Confirmed DailyTotal</option>
+        <!-- <option value="" selected disabled hidden>Choose here</option> -->
+        <option value="US Confirmed DailyTotal" selected="selected">US Confirmed DailyTotal</option>
         <option value="US Deaths DailyTotal">US Deaths DailyTotal</option>
         <option value="US Recovered DailyTotal">US Recovered DailyTotal</option>
         <option value="US Active DailyTotal">US Active DailyTotal</option>
-        <option value="">------------</option>
+        <option value="">------------------------</option>
         <option value="US Confirmed Top10">US Confirmed Top10</option>
         <option value="US Deaths Top10">US Deaths Top10</option>
         <option value="US Active Top10">US Active Top10</option>
-        <option value="">------------</option>
+        <option value="">------------------------</option>
         <option value="US Confirmed">US Confirmed</option>
         <option value="US Deaths">US Deaths</option>
         <option value="US Recovered">US Recovered</option>
         <option value="US Active">US Active</option>
-        <option value="">------------</option>
+        <option value="">------------------------</option>
         <option value="World Confirmed Top10">World Confirmed Top10</option>
         <option value="World Deaths Top10">World Deaths Top10</option>
         <option value="World Active Top10">World Active Top10</option>
