@@ -40,6 +40,7 @@ Afghanistan,nan,4/21/2020,1092,36,150,906,0
 Afghanistan,nan,4/22/2020,1176,40,166,970,0
 Afghanistan,nan,4/23/2020,1279,42,179,1058,0
 Afghanistan,nan,4/24/2020,1351,43,188,1120,0
+Afghanistan,nan,4/25/2020,1463,47,188,1228,0
 Albania,nan,3/15/2020,42,1,0,41,0
 Albania,nan,3/16/2020,51,1,0,50,0
 Albania,nan,3/17/2020,55,1,0,54,0
@@ -81,6 +82,7 @@ Albania,nan,4/21/2020,609,26,345,238,0
 Albania,nan,4/22/2020,634,27,356,251,0
 Albania,nan,4/23/2020,663,27,385,251,0
 Albania,nan,4/24/2020,678,27,394,257,0
+Albania,nan,4/25/2020,712,27,403,282,0
 Algeria,nan,3/15/2020,48,4,12,32,0
 Algeria,nan,3/16/2020,54,4,12,38,0
 Algeria,nan,3/17/2020,60,4,12,44,0
@@ -122,6 +124,7 @@ Algeria,nan,4/21/2020,2811,392,1152,1267,0
 Algeria,nan,4/22/2020,2910,402,1204,1304,0
 Algeria,nan,4/23/2020,3007,407,1355,1245,0
 Algeria,nan,4/24/2020,3127,415,1408,1304,0
+Algeria,nan,4/25/2020,3256,419,1479,1358,0
 Andorra,nan,3/15/2020,1,0,1,0,0
 Andorra,nan,3/16/2020,2,0,1,1,0
 Andorra,nan,3/17/2020,39,0,1,38,0
@@ -163,6 +166,7 @@ Andorra,nan,4/21/2020,717,37,282,398,0
 Andorra,nan,4/22/2020,723,37,309,377,0
 Andorra,nan,4/23/2020,723,37,333,353,0
 Andorra,nan,4/24/2020,731,40,344,347,0
+Andorra,nan,4/25/2020,738,40,344,354,0
 Angola,nan,3/20/2020,1,0,0,1,0
 Angola,nan,3/21/2020,2,0,0,2,0
 Angola,nan,3/22/2020,2,0,0,2,0
@@ -199,6 +203,7 @@ Angola,nan,4/21/2020,24,2,6,16,0
 Angola,nan,4/22/2020,25,2,6,17,0
 Angola,nan,4/23/2020,25,2,6,17,0
 Angola,nan,4/24/2020,25,2,6,17,0
+Angola,nan,4/25/2020,25,2,6,17,0
 Antigua and Barbuda,nan,3/15/2020,1,0,0,1,0
 Antigua and Barbuda,nan,3/16/2020,1,0,0,1,0
 Antigua and Barbuda,nan,3/17/2020,1,0,0,1,0
@@ -240,6 +245,7 @@ Antigua and Barbuda,nan,4/21/2020,23,3,7,13,0
 Antigua and Barbuda,nan,4/22/2020,24,3,10,11,0
 Antigua and Barbuda,nan,4/23/2020,24,3,10,11,0
 Antigua and Barbuda,nan,4/24/2020,24,3,11,10,0
+Antigua and Barbuda,nan,4/25/2020,24,3,11,10,0
 Argentina,nan,3/15/2020,45,2,1,42,0
 Argentina,nan,3/16/2020,56,2,1,53,0
 Argentina,nan,3/17/2020,68,2,3,63,0
@@ -281,6 +287,7 @@ Argentina,nan,4/21/2020,3031,147,840,2044,0
 Argentina,nan,4/22/2020,3144,152,872,2120,0
 Argentina,nan,4/23/2020,3435,165,919,2351,0
 Argentina,nan,4/24/2020,3607,176,976,2455,0
+Argentina,nan,4/25/2020,3780,185,1030,2565,0
 Armenia,nan,3/15/2020,26,0,0,26,0
 Armenia,nan,3/16/2020,52,0,0,52,0
 Armenia,nan,3/17/2020,78,0,1,77,0
@@ -322,6 +329,7 @@ Armenia,nan,4/21/2020,1401,24,609,768,0
 Armenia,nan,4/22/2020,1473,24,633,816,0
 Armenia,nan,4/23/2020,1523,24,659,840,0
 Armenia,nan,4/24/2020,1596,27,728,841,0
+Armenia,nan,4/25/2020,1677,28,803,846,0
 Aruba,nan,3/15/2020,2,0,0,2,0
 Aruba,nan,3/16/2020,2,0,0,2,0
 Aruba,nan,3/17/2020,3,0,0,3,0
@@ -368,6 +376,7 @@ Australia,Australian Capital Territory,4/21/2020,103,3,88,12,0
 Australia,Australian Capital Territory,4/22/2020,103,3,88,12,0
 Australia,Australian Capital Territory,4/23/2020,104,3,88,13,0
 Australia,Australian Capital Territory,4/24/2020,105,3,88,14,0
+Australia,Australian Capital Territory,4/25/2020,106,3,98,5,0
 Australia,External territories,3/22/2020,0,0,0,0,0
 Australia,From Diamond Princess,3/15/2020,0,0,0,0,0
 Australia,From Diamond Princess,3/16/2020,0,0,0,0,0
@@ -418,6 +427,7 @@ Australia,New South Wales,4/21/2020,2926,26,1379,1521,0
 Australia,New South Wales,4/22/2020,2926,26,1379,1521,0
 Australia,New South Wales,4/23/2020,2976,31,1379,1566,0
 Australia,New South Wales,4/24/2020,2982,33,1379,1570,0
+Australia,New South Wales,4/25/2020,2994,33,2193,768,0
 Australia,Northern Territory,3/15/2020,1,0,0,1,0
 Australia,Northern Territory,3/16/2020,1,0,0,1,0
 Australia,Northern Territory,3/17/2020,1,0,0,1,0
@@ -459,6 +469,7 @@ Australia,Northern Territory,4/21/2020,28,0,9,19,0
 Australia,Northern Territory,4/22/2020,28,0,9,19,0
 Australia,Northern Territory,4/23/2020,27,0,9,18,0
 Australia,Northern Territory,4/24/2020,28,0,9,19,0
+Australia,Northern Territory,4/25/2020,28,0,0,28,0
 Australia,Queensland,3/15/2020,61,0,8,53,0
 Australia,Queensland,3/16/2020,68,0,8,60,0
 Australia,Queensland,3/17/2020,78,0,8,70,0
@@ -500,6 +511,7 @@ Australia,Queensland,4/21/2020,1015,6,738,271,0
 Australia,Queensland,4/22/2020,1015,6,738,271,0
 Australia,Queensland,4/23/2020,1026,6,738,282,0
 Australia,Queensland,4/24/2020,1026,6,738,282,0
+Australia,Queensland,4/25/2020,1026,6,803,217,0
 Australia,South Australia,3/15/2020,20,0,3,17,0
 Australia,South Australia,3/16/2020,29,0,3,26,0
 Australia,South Australia,3/17/2020,29,0,3,26,0
@@ -541,6 +553,7 @@ Australia,South Australia,4/21/2020,435,4,331,100,0
 Australia,South Australia,4/22/2020,435,4,331,100,0
 Australia,South Australia,4/23/2020,438,4,331,103,0
 Australia,South Australia,4/24/2020,438,4,331,103,0
+Australia,South Australia,4/25/2020,438,4,401,33,0
 Australia,Tasmania,3/15/2020,6,0,0,6,0
 Australia,Tasmania,3/16/2020,7,0,0,7,0
 Australia,Tasmania,3/17/2020,7,0,0,7,0
@@ -582,6 +595,7 @@ Australia,Tasmania,4/21/2020,180,7,67,106,0
 Australia,Tasmania,4/22/2020,180,7,67,106,0
 Australia,Tasmania,4/23/2020,207,8,67,132,0
 Australia,Tasmania,4/24/2020,207,9,67,131,0
+Australia,Tasmania,4/25/2020,207,10,117,80,0
 Australia,Victoria,3/15/2020,57,0,8,49,0
 Australia,Victoria,3/16/2020,71,0,8,63,0
 Australia,Victoria,3/17/2020,94,0,8,86,0
@@ -623,6 +637,7 @@ Australia,Victoria,4/21/2020,1319,14,1172,133,0
 Australia,Victoria,4/22/2020,1319,14,1172,133,0
 Australia,Victoria,4/23/2020,1337,16,1172,149,0
 Australia,Victoria,4/24/2020,1343,16,1172,155,0
+Australia,Victoria,4/25/2020,1346,16,133,1197,0
 Australia,Western Australia,3/15/2020,17,1,0,16,0
 Australia,Western Australia,3/16/2020,28,1,0,27,0
 Australia,Western Australia,3/17/2020,31,1,0,30,0
@@ -664,6 +679,7 @@ Australia,Western Australia,4/21/2020,541,7,340,194,0
 Australia,Western Australia,4/22/2020,541,7,340,194,0
 Australia,Western Australia,4/23/2020,546,7,340,199,0
 Australia,Western Australia,4/24/2020,548,8,340,200,0
+Australia,Western Australia,4/25/2020,549,8,478,63,0
 Austria,nan,3/15/2020,860,1,6,853,0
 Austria,nan,3/16/2020,1018,3,6,1009,0
 Austria,nan,3/17/2020,1332,3,1,1328,0
@@ -705,6 +721,7 @@ Austria,nan,4/21/2020,14873,491,10971,3411,0
 Austria,nan,4/22/2020,14925,510,11328,3087,0
 Austria,nan,4/23/2020,15002,522,11694,2786,0
 Austria,nan,4/24/2020,15071,530,11872,2669,0
+Austria,nan,4/25/2020,15148,536,12103,2509,0
 Azerbaijan,nan,3/15/2020,23,1,6,16,0
 Azerbaijan,nan,3/16/2020,15,1,6,8,0
 Azerbaijan,nan,3/17/2020,28,1,6,21,0
@@ -746,6 +763,7 @@ Azerbaijan,nan,4/21/2020,1480,20,865,595,0
 Azerbaijan,nan,4/22/2020,1518,20,907,591,0
 Azerbaijan,nan,4/23/2020,1548,20,948,580,0
 Azerbaijan,nan,4/24/2020,1592,21,1013,558,0
+Azerbaijan,nan,4/25/2020,1617,21,1080,516,0
 Bahamas,nan,3/22/2020,4,0,0,4,0
 Bahamas,nan,3/23/2020,4,0,0,4,0
 Bahamas,nan,3/24/2020,5,0,1,4,0
@@ -780,6 +798,7 @@ Bahamas,nan,4/21/2020,65,9,12,44,0
 Bahamas,nan,4/22/2020,65,9,12,44,0
 Bahamas,nan,4/23/2020,72,11,14,47,0
 Bahamas,nan,4/24/2020,73,11,15,47,0
+Bahamas,nan,4/25/2020,78,11,15,52,0
 "Bahamas, The",nan,3/19/2020,3,0,0,3,0
 "Bahamas, The",nan,3/20/2020,3,0,0,3,0
 "Bahamas, The",nan,3/21/2020,4,0,0,4,0
@@ -824,6 +843,7 @@ Bahrain,nan,4/21/2020,1973,7,784,1182,0
 Bahrain,nan,4/22/2020,2027,7,1026,994,0
 Bahrain,nan,4/23/2020,2217,8,1082,1127,0
 Bahrain,nan,4/24/2020,2518,8,1113,1397,0
+Bahrain,nan,4/25/2020,2588,8,1160,1420,0
 Bangladesh,nan,3/15/2020,5,0,0,5,0
 Bangladesh,nan,3/16/2020,8,0,2,6,0
 Bangladesh,nan,3/17/2020,10,0,3,7,0
@@ -865,6 +885,7 @@ Bangladesh,nan,4/21/2020,3382,110,87,3185,0
 Bangladesh,nan,4/22/2020,3772,120,92,3560,0
 Bangladesh,nan,4/23/2020,4186,127,108,3951,0
 Bangladesh,nan,4/24/2020,4689,131,112,4446,0
+Bangladesh,nan,4/25/2020,4998,140,113,4745,0
 Barbados,nan,3/17/2020,2,0,0,2,0
 Barbados,nan,3/18/2020,2,0,0,2,0
 Barbados,nan,3/19/2020,5,0,0,5,0
@@ -904,6 +925,7 @@ Barbados,nan,4/21/2020,75,5,25,45,0
 Barbados,nan,4/22/2020,75,5,25,45,0
 Barbados,nan,4/23/2020,76,6,30,40,0
 Barbados,nan,4/24/2020,77,6,31,40,0
+Barbados,nan,4/25/2020,79,6,31,42,0
 Belarus,nan,3/15/2020,27,0,3,24,0
 Belarus,nan,3/16/2020,36,0,3,33,0
 Belarus,nan,3/17/2020,36,0,3,33,0
@@ -945,6 +967,7 @@ Belarus,nan,4/21/2020,6723,55,577,6091,0
 Belarus,nan,4/22/2020,7281,58,769,6454,0
 Belarus,nan,4/23/2020,8022,60,938,7024,0
 Belarus,nan,4/24/2020,8773,63,1120,7590,0
+Belarus,nan,4/25/2020,9590,67,1573,7950,0
 Belgium,nan,3/15/2020,886,4,1,881,0
 Belgium,nan,3/16/2020,1058,5,1,1052,0
 Belgium,nan,3/17/2020,1243,10,1,1232,0
@@ -986,6 +1009,7 @@ Belgium,nan,4/21/2020,40956,5998,9002,25956,0
 Belgium,nan,4/22/2020,41889,6262,9433,26194,0
 Belgium,nan,4/23/2020,42797,6490,9800,26507,0
 Belgium,nan,4/24/2020,44293,6679,10122,27492,0
+Belgium,nan,4/25/2020,45325,6917,10417,27991,0
 Belize,nan,3/23/2020,1,0,0,1,0
 Belize,nan,3/24/2020,1,0,0,1,0
 Belize,nan,3/25/2020,2,0,0,2,0
@@ -1019,6 +1043,7 @@ Belize,nan,4/21/2020,18,2,2,14,0
 Belize,nan,4/22/2020,18,2,2,14,0
 Belize,nan,4/23/2020,18,2,5,11,0
 Belize,nan,4/24/2020,18,2,5,11,0
+Belize,nan,4/25/2020,18,2,5,11,0
 Benin,nan,3/16/2020,1,0,0,1,0
 Benin,nan,3/17/2020,1,0,0,1,0
 Benin,nan,3/18/2020,2,0,0,2,0
@@ -1059,6 +1084,7 @@ Benin,nan,4/21/2020,54,1,27,26,0
 Benin,nan,4/22/2020,54,1,27,26,0
 Benin,nan,4/23/2020,54,1,27,26,0
 Benin,nan,4/24/2020,54,1,27,26,0
+Benin,nan,4/25/2020,54,1,27,26,0
 Bhutan,nan,3/15/2020,1,0,0,1,0
 Bhutan,nan,3/16/2020,1,0,0,1,0
 Bhutan,nan,3/17/2020,1,0,0,1,0
@@ -1100,6 +1126,7 @@ Bhutan,nan,4/21/2020,6,0,2,4,0
 Bhutan,nan,4/22/2020,6,0,2,4,0
 Bhutan,nan,4/23/2020,7,0,3,4,0
 Bhutan,nan,4/24/2020,7,0,3,4,0
+Bhutan,nan,4/25/2020,7,0,3,4,0
 Bolivia,nan,3/15/2020,10,0,0,10,0
 Bolivia,nan,3/16/2020,11,0,0,11,0
 Bolivia,nan,3/17/2020,11,0,0,11,0
@@ -1141,6 +1168,7 @@ Bolivia,nan,4/21/2020,598,34,37,527,0
 Bolivia,nan,4/22/2020,609,37,44,528,0
 Bolivia,nan,4/23/2020,703,43,44,616,0
 Bolivia,nan,4/24/2020,807,44,54,709,0
+Bolivia,nan,4/25/2020,866,46,54,766,0
 Bosnia and Herzegovina,nan,3/15/2020,24,0,0,24,0
 Bosnia and Herzegovina,nan,3/16/2020,25,0,0,25,0
 Bosnia and Herzegovina,nan,3/17/2020,26,0,2,24,0
@@ -1182,6 +1210,7 @@ Bosnia and Herzegovina,nan,4/21/2020,1342,51,437,854,0
 Bosnia and Herzegovina,nan,4/22/2020,1368,53,460,855,0
 Bosnia and Herzegovina,nan,4/23/2020,1413,54,485,874,0
 Bosnia and Herzegovina,nan,4/24/2020,1421,55,538,828,0
+Bosnia and Herzegovina,nan,4/25/2020,1486,57,592,837,0
 Botswana,nan,3/30/2020,3,0,0,3,0
 Botswana,nan,3/31/2020,4,1,0,3,0
 Botswana,nan,4/01/2020,4,1,0,3,0
@@ -1208,6 +1237,7 @@ Botswana,nan,4/21/2020,20,1,0,19,0
 Botswana,nan,4/22/2020,22,1,0,21,0
 Botswana,nan,4/23/2020,22,1,0,21,0
 Botswana,nan,4/24/2020,22,1,0,21,0
+Botswana,nan,4/25/2020,22,1,0,21,0
 Brazil,nan,3/15/2020,162,0,0,162,0
 Brazil,nan,3/16/2020,200,0,1,199,0
 Brazil,nan,3/17/2020,321,1,2,318,0
@@ -1249,6 +1279,7 @@ Brazil,nan,4/21/2020,43079,2741,22991,17347,0
 Brazil,nan,4/22/2020,45757,2906,25318,17533,0
 Brazil,nan,4/23/2020,50036,3331,26573,20132,0
 Brazil,nan,4/24/2020,54043,3704,27655,22684,0
+Brazil,nan,4/25/2020,59324,4057,29160,26107,0
 Brunei,nan,3/15/2020,50,0,0,50,0
 Brunei,nan,3/16/2020,54,0,0,54,0
 Brunei,nan,3/17/2020,56,0,0,56,0
@@ -1290,6 +1321,7 @@ Brunei,nan,4/21/2020,138,1,116,21,0
 Brunei,nan,4/22/2020,138,1,117,20,0
 Brunei,nan,4/23/2020,138,1,119,18,0
 Brunei,nan,4/24/2020,138,1,120,17,0
+Brunei,nan,4/25/2020,138,1,121,16,0
 Bulgaria,nan,3/15/2020,51,2,0,49,0
 Bulgaria,nan,3/16/2020,52,2,0,50,0
 Bulgaria,nan,3/17/2020,67,2,0,65,0
@@ -1331,6 +1363,7 @@ Bulgaria,nan,4/21/2020,975,45,170,760,0
 Bulgaria,nan,4/22/2020,1024,49,174,801,0
 Bulgaria,nan,4/23/2020,1097,52,190,855,0
 Bulgaria,nan,4/24/2020,1234,54,197,983,0
+Bulgaria,nan,4/25/2020,1247,55,197,995,0
 Burkina Faso,nan,3/15/2020,3,0,0,3,0
 Burkina Faso,nan,3/16/2020,15,0,0,15,0
 Burkina Faso,nan,3/17/2020,15,0,0,15,0
@@ -1372,6 +1405,7 @@ Burkina Faso,nan,4/21/2020,600,38,362,200,0
 Burkina Faso,nan,4/22/2020,609,39,389,181,0
 Burkina Faso,nan,4/23/2020,616,41,410,165,0
 Burkina Faso,nan,4/24/2020,629,41,425,163,0
+Burkina Faso,nan,4/25/2020,629,41,442,146,0
 Burma,nan,3/27/2020,8,0,0,8,0
 Burma,nan,3/28/2020,8,0,0,8,0
 Burma,nan,3/29/2020,10,0,0,10,0
@@ -1401,6 +1435,7 @@ Burma,nan,4/21/2020,121,5,7,109,0
 Burma,nan,4/22/2020,123,5,7,111,0
 Burma,nan,4/23/2020,139,5,9,125,0
 Burma,nan,4/24/2020,144,5,9,130,0
+Burma,nan,4/25/2020,146,5,10,131,0
 Burundi,nan,3/31/2020,2,0,0,2,0
 Burundi,nan,4/01/2020,2,0,0,2,0
 Burundi,nan,4/02/2020,3,0,0,3,0
@@ -1426,6 +1461,7 @@ Burundi,nan,4/21/2020,5,1,4,0,0
 Burundi,nan,4/22/2020,11,1,4,6,0
 Burundi,nan,4/23/2020,11,1,4,6,0
 Burundi,nan,4/24/2020,11,1,4,6,0
+Burundi,nan,4/25/2020,11,1,4,6,0
 Cabo Verde,nan,3/20/2020,1,0,0,1,0
 Cabo Verde,nan,3/21/2020,3,0,0,3,0
 Cabo Verde,nan,3/22/2020,3,0,0,3,0
@@ -1462,6 +1498,7 @@ Cabo Verde,nan,4/21/2020,68,1,1,66,0
 Cabo Verde,nan,4/22/2020,73,1,1,71,0
 Cabo Verde,nan,4/23/2020,82,1,1,80,0
 Cabo Verde,nan,4/24/2020,88,1,1,86,0
+Cabo Verde,nan,4/25/2020,90,1,1,88,0
 Cambodia,nan,3/15/2020,7,0,1,6,0
 Cambodia,nan,3/16/2020,7,0,1,6,0
 Cambodia,nan,3/17/2020,33,0,1,32,0
@@ -1503,6 +1540,7 @@ Cambodia,nan,4/21/2020,122,0,110,12,0
 Cambodia,nan,4/22/2020,122,0,110,12,0
 Cambodia,nan,4/23/2020,122,0,110,12,0
 Cambodia,nan,4/24/2020,122,0,117,5,0
+Cambodia,nan,4/25/2020,122,0,117,5,0
 Cameroon,nan,3/15/2020,2,0,0,2,0
 Cameroon,nan,3/16/2020,4,0,0,4,0
 Cameroon,nan,3/17/2020,10,0,0,10,0
@@ -1544,6 +1582,7 @@ Cameroon,nan,4/21/2020,1163,43,329,791,0
 Cameroon,nan,4/22/2020,1163,43,397,723,0
 Cameroon,nan,4/23/2020,1334,43,668,623,0
 Cameroon,nan,4/24/2020,1430,43,668,719,0
+Cameroon,nan,4/25/2020,1518,53,697,768,0
 Canada,Alberta,3/15/2020,39,0,0,39,0
 Canada,Alberta,3/16/2020,56,0,0,56,0
 Canada,Alberta,3/17/2020,74,0,0,74,0
@@ -1585,6 +1624,7 @@ Canada,Alberta,4/21/2020,3095,61,0,3034,0
 Canada,Alberta,4/22/2020,3401,66,0,3335,0
 Canada,Alberta,4/23/2020,3720,68,0,3652,0
 Canada,Alberta,4/24/2020,4017,72,0,3945,0
+Canada,Alberta,4/25/2020,4233,73,0,4160,0
 Canada,British Columbia,3/15/2020,73,1,4,68,0
 Canada,British Columbia,3/16/2020,103,4,4,95,0
 Canada,British Columbia,3/17/2020,103,4,4,95,0
@@ -1626,6 +1666,7 @@ Canada,British Columbia,4/21/2020,1724,87,0,1637,0
 Canada,British Columbia,4/22/2020,1795,90,0,1705,0
 Canada,British Columbia,4/23/2020,1824,94,0,1730,0
 Canada,British Columbia,4/24/2020,1853,98,0,1755,0
+Canada,British Columbia,4/25/2020,1948,100,0,1848,0
 Canada,Diamond Princess,3/22/2020,0,1,0,0,-1
 Canada,Diamond Princess,3/23/2020,0,1,0,0,-1
 Canada,Diamond Princess,3/24/2020,0,1,0,0,-1
@@ -1649,6 +1690,7 @@ Canada,Diamond Princess,4/10/2020,0,1,0,0,-1
 Canada,Diamond Princess,4/11/2020,0,1,0,0,-1
 Canada,Diamond Princess,4/23/2020,0,1,0,0,-1
 Canada,Diamond Princess,4/24/2020,0,1,0,0,-1
+Canada,Diamond Princess,4/25/2020,0,1,0,0,-1
 Canada,Grand Princess,3/16/2020,2,0,0,2,0
 Canada,Grand Princess,3/17/2020,8,0,0,8,0
 Canada,Grand Princess,3/18/2020,9,0,0,9,0
@@ -1727,6 +1769,7 @@ Canada,Manitoba,4/21/2020,255,6,0,249,0
 Canada,Manitoba,4/22/2020,257,6,0,251,0
 Canada,Manitoba,4/23/2020,262,6,0,256,0
 Canada,Manitoba,4/24/2020,263,6,0,257,0
+Canada,Manitoba,4/25/2020,267,6,0,261,0
 Canada,New Brunswick,3/15/2020,2,0,0,2,0
 Canada,New Brunswick,3/16/2020,6,0,0,6,0
 Canada,New Brunswick,3/17/2020,8,0,0,8,0
@@ -1768,6 +1811,7 @@ Canada,New Brunswick,4/21/2020,118,0,0,118,0
 Canada,New Brunswick,4/22/2020,118,0,0,118,0
 Canada,New Brunswick,4/23/2020,118,0,0,118,0
 Canada,New Brunswick,4/24/2020,118,0,0,118,0
+Canada,New Brunswick,4/25/2020,118,0,0,118,0
 Canada,Newfoundland and Labrador,3/15/2020,1,0,0,1,0
 Canada,Newfoundland and Labrador,3/16/2020,1,0,0,1,0
 Canada,Newfoundland and Labrador,3/17/2020,3,0,0,3,0
@@ -1809,6 +1853,7 @@ Canada,Newfoundland and Labrador,4/21/2020,257,3,0,254,0
 Canada,Newfoundland and Labrador,4/22/2020,256,3,0,253,0
 Canada,Newfoundland and Labrador,4/23/2020,256,3,0,253,0
 Canada,Newfoundland and Labrador,4/24/2020,256,3,0,253,0
+Canada,Newfoundland and Labrador,4/25/2020,257,3,0,254,0
 Canada,Northwest Territories,3/21/2020,1,0,0,1,0
 Canada,Northwest Territories,3/22/2020,1,0,0,1,0
 Canada,Northwest Territories,3/26/2020,1,0,0,1,0
@@ -1841,6 +1886,7 @@ Canada,Northwest Territories,4/21/2020,5,0,0,5,0
 Canada,Northwest Territories,4/22/2020,5,0,0,5,0
 Canada,Northwest Territories,4/23/2020,5,0,0,5,0
 Canada,Northwest Territories,4/24/2020,5,0,0,5,0
+Canada,Northwest Territories,4/25/2020,5,0,0,5,0
 Canada,Nova Scotia,3/16/2020,5,0,0,5,0
 Canada,Nova Scotia,3/17/2020,7,0,0,7,0
 Canada,Nova Scotia,3/18/2020,12,0,0,12,0
@@ -1921,6 +1967,7 @@ Canada,Ontario,4/21/2020,12715,694,0,12021,0
 Canada,Ontario,4/22/2020,13718,762,0,12956,0
 Canada,Ontario,4/23/2020,14068,806,0,13262,0
 Canada,Ontario,4/24/2020,14550,862,0,13688,0
+Canada,Ontario,4/25/2020,15012,916,0,14096,0
 Canada,Prince Edward Island,3/15/2020,1,0,0,1,0
 Canada,Prince Edward Island,3/16/2020,1,0,0,1,0
 Canada,Prince Edward Island,3/17/2020,1,0,0,1,0
@@ -1962,6 +2009,7 @@ Canada,Prince Edward Island,4/21/2020,26,0,0,26,0
 Canada,Prince Edward Island,4/22/2020,26,0,0,26,0
 Canada,Prince Edward Island,4/23/2020,26,0,0,26,0
 Canada,Prince Edward Island,4/24/2020,26,0,0,26,0
+Canada,Prince Edward Island,4/25/2020,26,0,0,26,0
 Canada,Quebec,3/15/2020,24,0,0,24,0
 Canada,Quebec,3/16/2020,50,0,0,50,0
 Canada,Quebec,3/17/2020,74,0,0,74,0
@@ -2003,6 +2051,7 @@ Canada,Quebec,4/21/2020,20126,1044,0,19082,0
 Canada,Quebec,4/22/2020,20965,1134,0,19831,0
 Canada,Quebec,4/23/2020,21838,1243,0,20595,0
 Canada,Quebec,4/24/2020,22616,1340,0,21276,0
+Canada,Quebec,4/25/2020,23267,1446,0,21821,0
 Canada,Recovered,3/24/2020,0,0,110,0,-110
 Canada,Recovered,3/25/2020,0,0,183,0,-183
 Canada,Recovered,3/26/2020,0,0,184,0,-184
@@ -2035,6 +2084,7 @@ Canada,Recovered,4/21/2020,0,0,13188,0,-13188
 Canada,Recovered,4/22/2020,0,0,14454,0,-14454
 Canada,Recovered,4/23/2020,0,0,14761,0,-14761
 Canada,Recovered,4/24/2020,0,0,15149,0,-15149
+Canada,Recovered,4/25/2020,0,0,16013,0,-16013
 Canada,Saskatchewan,3/15/2020,2,0,0,2,0
 Canada,Saskatchewan,3/16/2020,7,0,0,7,0
 Canada,Saskatchewan,3/17/2020,7,0,0,7,0
@@ -2076,6 +2126,7 @@ Canada,Saskatchewan,4/21/2020,320,4,0,316,0
 Canada,Saskatchewan,4/22/2020,326,4,0,322,0
 Canada,Saskatchewan,4/23/2020,331,4,0,327,0
 Canada,Saskatchewan,4/24/2020,341,4,0,337,0
+Canada,Saskatchewan,4/25/2020,349,4,0,345,0
 Canada,Yukon,3/26/2020,3,0,0,3,0
 Canada,Yukon,3/27/2020,3,0,0,3,0
 Canada,Yukon,3/28/2020,4,0,0,4,0
@@ -2106,6 +2157,7 @@ Canada,Yukon,4/21/2020,11,0,0,11,0
 Canada,Yukon,4/22/2020,11,0,0,11,0
 Canada,Yukon,4/23/2020,11,0,0,11,0
 Canada,Yukon,4/24/2020,11,0,0,11,0
+Canada,Yukon,4/25/2020,11,0,0,11,0
 Cape Verde,nan,3/21/2020,1,0,0,1,0
 Cayman Islands,nan,3/15/2020,1,0,0,1,0
 Central African Republic,nan,3/15/2020,1,0,0,1,0
@@ -2149,6 +2201,7 @@ Central African Republic,nan,4/21/2020,14,0,10,4,0
 Central African Republic,nan,4/22/2020,14,0,10,4,0
 Central African Republic,nan,4/23/2020,16,0,10,6,0
 Central African Republic,nan,4/24/2020,16,0,10,6,0
+Central African Republic,nan,4/25/2020,16,0,10,6,0
 Chad,nan,3/19/2020,1,0,0,1,0
 Chad,nan,3/20/2020,1,0,0,1,0
 Chad,nan,3/21/2020,1,0,0,1,0
@@ -2186,6 +2239,7 @@ Chad,nan,4/21/2020,33,0,8,25,0
 Chad,nan,4/22/2020,33,0,8,25,0
 Chad,nan,4/23/2020,33,0,8,25,0
 Chad,nan,4/24/2020,40,0,8,32,0
+Chad,nan,4/25/2020,46,0,15,31,0
 Chile,nan,3/15/2020,74,0,0,74,0
 Chile,nan,3/16/2020,155,0,0,155,0
 Chile,nan,3/17/2020,201,0,0,201,0
@@ -2227,6 +2281,7 @@ Chile,nan,4/21/2020,10832,147,4969,5716,0
 Chile,nan,4/22/2020,11296,160,5386,5750,0
 Chile,nan,4/23/2020,11812,168,5804,5840,0
 Chile,nan,4/24/2020,12306,174,6327,5805,0
+Chile,nan,4/25/2020,12858,181,6746,5931,0
 China,Anhui,3/15/2020,990,6,984,0,0
 China,Anhui,3/16/2020,990,6,984,0,0
 China,Anhui,3/17/2020,990,6,984,0,0
@@ -2268,6 +2323,7 @@ China,Anhui,4/21/2020,991,6,984,1,0
 China,Anhui,4/22/2020,991,6,984,1,0
 China,Anhui,4/23/2020,991,6,984,1,0
 China,Anhui,4/24/2020,991,6,985,0,0
+China,Anhui,4/25/2020,991,6,985,0,0
 China,Beijing,3/15/2020,442,8,353,81,0
 China,Beijing,3/16/2020,452,8,360,84,0
 China,Beijing,3/17/2020,456,8,369,79,0
@@ -2309,6 +2365,7 @@ China,Beijing,4/21/2020,593,8,516,69,0
 China,Beijing,4/22/2020,593,8,518,67,0
 China,Beijing,4/23/2020,593,8,524,61,0
 China,Beijing,4/24/2020,593,8,525,60,0
+China,Beijing,4/25/2020,593,8,525,60,0
 China,Chongqing,3/15/2020,576,6,570,0,0
 China,Chongqing,3/16/2020,576,6,570,0,0
 China,Chongqing,3/17/2020,576,6,570,0,0
@@ -2350,6 +2407,7 @@ China,Chongqing,4/21/2020,579,6,570,3,0
 China,Chongqing,4/22/2020,579,6,570,3,0
 China,Chongqing,4/23/2020,579,6,573,0,0
 China,Chongqing,4/24/2020,579,6,573,0,0
+China,Chongqing,4/25/2020,579,6,573,0,0
 China,Fujian,3/15/2020,296,1,295,0,0
 China,Fujian,3/16/2020,296,1,295,0,0
 China,Fujian,3/17/2020,296,1,295,0,0
@@ -2391,6 +2449,7 @@ China,Fujian,4/21/2020,355,1,341,13,0
 China,Fujian,4/22/2020,355,1,342,12,0
 China,Fujian,4/23/2020,355,1,346,8,0
 China,Fujian,4/24/2020,355,1,349,5,0
+China,Fujian,4/25/2020,355,1,349,5,0
 China,Gansu,3/15/2020,133,2,91,40,0
 China,Gansu,3/16/2020,133,2,91,40,0
 China,Gansu,3/17/2020,133,2,91,40,0
@@ -2432,6 +2491,7 @@ China,Gansu,4/21/2020,139,2,137,0,0
 China,Gansu,4/22/2020,139,2,137,0,0
 China,Gansu,4/23/2020,139,2,137,0,0
 China,Gansu,4/24/2020,139,2,137,0,0
+China,Gansu,4/25/2020,139,2,137,0,0
 China,Guangdong,3/15/2020,1360,8,1304,48,0
 China,Guangdong,3/16/2020,1361,8,1306,47,0
 China,Guangdong,3/17/2020,1364,8,1307,49,0
@@ -2473,6 +2533,7 @@ China,Guangdong,4/21/2020,1582,8,1501,73,0
 China,Guangdong,4/22/2020,1582,8,1511,63,0
 China,Guangdong,4/23/2020,1585,8,1528,49,0
 China,Guangdong,4/24/2020,1585,8,1534,43,0
+China,Guangdong,4/25/2020,1586,8,1542,36,0
 China,Guangxi,3/15/2020,252,2,243,7,0
 China,Guangxi,3/16/2020,252,2,248,2,0
 China,Guangxi,3/17/2020,253,2,248,3,0
@@ -2514,6 +2575,7 @@ China,Guangxi,4/21/2020,254,2,252,0,0
 China,Guangxi,4/22/2020,254,2,252,0,0
 China,Guangxi,4/23/2020,254,2,252,0,0
 China,Guangxi,4/24/2020,254,2,252,0,0
+China,Guangxi,4/25/2020,254,2,252,0,0
 China,Guizhou,3/15/2020,146,2,143,1,0
 China,Guizhou,3/16/2020,146,2,144,0,0
 China,Guizhou,3/17/2020,147,2,144,1,0
@@ -2555,6 +2617,7 @@ China,Guizhou,4/21/2020,147,2,145,0,0
 China,Guizhou,4/22/2020,147,2,145,0,0
 China,Guizhou,4/23/2020,147,2,145,0,0
 China,Guizhou,4/24/2020,147,2,145,0,0
+China,Guizhou,4/25/2020,147,2,145,0,0
 China,Hainan,3/15/2020,168,6,160,2,0
 China,Hainan,3/16/2020,168,6,161,1,0
 China,Hainan,3/17/2020,168,6,161,1,0
@@ -2596,6 +2659,7 @@ China,Hainan,4/21/2020,168,6,162,0,0
 China,Hainan,4/22/2020,168,6,162,0,0
 China,Hainan,4/23/2020,168,6,162,0,0
 China,Hainan,4/24/2020,168,6,162,0,0
+China,Hainan,4/25/2020,168,6,162,0,0
 China,Hebei,3/15/2020,318,6,310,2,0
 China,Hebei,3/16/2020,318,6,310,2,0
 China,Hebei,3/17/2020,318,6,310,2,0
@@ -2637,6 +2701,7 @@ China,Hebei,4/21/2020,328,6,317,5,0
 China,Hebei,4/22/2020,328,6,317,5,0
 China,Hebei,4/23/2020,328,6,317,5,0
 China,Hebei,4/24/2020,328,6,318,4,0
+China,Hebei,4/25/2020,328,6,318,4,0
 China,Heilongjiang,3/15/2020,482,13,453,16,0
 China,Heilongjiang,3/16/2020,482,13,455,14,0
 China,Heilongjiang,3/17/2020,482,13,456,13,0
@@ -2678,6 +2743,7 @@ China,Heilongjiang,4/21/2020,913,13,475,425,0
 China,Heilongjiang,4/22/2020,921,13,479,429,0
 China,Heilongjiang,4/23/2020,928,13,485,430,0
 China,Heilongjiang,4/24/2020,930,13,508,409,0
+China,Heilongjiang,4/25/2020,935,13,511,411,0
 China,Henan,3/15/2020,1273,22,1250,1,0
 China,Henan,3/16/2020,1273,22,1250,1,0
 China,Henan,3/17/2020,1273,22,1250,1,0
@@ -2719,6 +2785,7 @@ China,Henan,4/21/2020,1276,22,1254,0,0
 China,Henan,4/22/2020,1276,22,1254,0,0
 China,Henan,4/23/2020,1276,22,1254,0,0
 China,Henan,4/24/2020,1276,22,1254,0,0
+China,Henan,4/25/2020,1276,22,1254,0,0
 China,Hong Kong,3/15/2020,145,4,81,60,0
 China,Hong Kong,3/16/2020,155,4,84,67,0
 China,Hong Kong,3/17/2020,162,4,88,70,0
@@ -2760,6 +2827,7 @@ China,Hong Kong,4/21/2020,1029,4,650,375,0
 China,Hong Kong,4/22/2020,1033,4,678,351,0
 China,Hong Kong,4/23/2020,1035,4,699,332,0
 China,Hong Kong,4/24/2020,1035,4,725,306,0
+China,Hong Kong,4/25/2020,1037,4,753,280,0
 China,Hubei,3/15/2020,67794,3085,54288,10421,0
 China,Hubei,3/16/2020,67798,3099,55142,9557,0
 China,Hubei,3/17/2020,67799,3111,56003,8685,0
@@ -2801,6 +2869,7 @@ China,Hubei,4/21/2020,68128,4512,63514,102,0
 China,Hubei,4/22/2020,68128,4512,63519,97,0
 China,Hubei,4/23/2020,68128,4512,63569,47,0
 China,Hubei,4/24/2020,68128,4512,63593,23,0
+China,Hubei,4/25/2020,68128,4512,63604,12,0
 China,Hunan,3/15/2020,1018,4,1014,0,0
 China,Hunan,3/16/2020,1018,4,1014,0,0
 China,Hunan,3/17/2020,1018,4,1014,0,0
@@ -2842,6 +2911,7 @@ China,Hunan,4/21/2020,1019,4,1015,0,0
 China,Hunan,4/22/2020,1019,4,1015,0,0
 China,Hunan,4/23/2020,1019,4,1015,0,0
 China,Hunan,4/24/2020,1019,4,1015,0,0
+China,Hunan,4/25/2020,1019,4,1015,0,0
 China,Inner Mongolia,3/15/2020,75,1,71,3,0
 China,Inner Mongolia,3/16/2020,75,1,73,1,0
 China,Inner Mongolia,3/17/2020,75,1,73,1,0
@@ -2883,6 +2953,7 @@ China,Inner Mongolia,4/21/2020,194,1,108,85,0
 China,Inner Mongolia,4/22/2020,194,1,108,85,0
 China,Inner Mongolia,4/23/2020,194,1,108,85,0
 China,Inner Mongolia,4/24/2020,197,1,114,82,0
+China,Inner Mongolia,4/25/2020,198,1,121,76,0
 China,Jiangsu,3/15/2020,631,0,631,0,0
 China,Jiangsu,3/16/2020,631,0,631,0,0
 China,Jiangsu,3/17/2020,631,0,631,0,0
@@ -2924,6 +2995,7 @@ China,Jiangsu,4/21/2020,653,0,644,9,0
 China,Jiangsu,4/22/2020,653,0,645,8,0
 China,Jiangsu,4/23/2020,653,0,646,7,0
 China,Jiangsu,4/24/2020,653,0,646,7,0
+China,Jiangsu,4/25/2020,653,0,646,7,0
 China,Jiangxi,3/15/2020,935,1,934,0,0
 China,Jiangxi,3/16/2020,935,1,934,0,0
 China,Jiangxi,3/17/2020,935,1,934,0,0
@@ -2965,6 +3037,7 @@ China,Jiangxi,4/21/2020,937,1,936,0,0
 China,Jiangxi,4/22/2020,937,1,936,0,0
 China,Jiangxi,4/23/2020,937,1,936,0,0
 China,Jiangxi,4/24/2020,937,1,936,0,0
+China,Jiangxi,4/25/2020,937,1,936,0,0
 China,Jilin,3/15/2020,93,1,91,1,0
 China,Jilin,3/16/2020,93,1,92,0,0
 China,Jilin,3/17/2020,93,1,92,0,0
@@ -3006,6 +3079,7 @@ China,Jilin,4/21/2020,106,1,97,8,0
 China,Jilin,4/22/2020,106,1,98,7,0
 China,Jilin,4/23/2020,108,1,99,8,0
 China,Jilin,4/24/2020,109,1,99,9,0
+China,Jilin,4/25/2020,109,1,99,9,0
 China,Liaoning,3/15/2020,125,1,114,10,0
 China,Liaoning,3/16/2020,125,1,115,9,0
 China,Liaoning,3/17/2020,125,1,120,4,0
@@ -3047,6 +3121,7 @@ China,Liaoning,4/21/2020,146,2,143,1,0
 China,Liaoning,4/22/2020,146,2,143,1,0
 China,Liaoning,4/23/2020,146,2,143,1,0
 China,Liaoning,4/24/2020,146,2,143,1,0
+China,Liaoning,4/25/2020,146,2,143,1,0
 China,Macau,3/15/2020,10,0,10,0,0
 China,Macau,3/16/2020,11,0,10,1,0
 China,Macau,3/17/2020,12,0,10,2,0
@@ -3088,6 +3163,7 @@ China,Macau,4/21/2020,45,0,24,21,0
 China,Macau,4/22/2020,45,0,26,19,0
 China,Macau,4/23/2020,45,0,27,18,0
 China,Macau,4/24/2020,45,0,27,18,0
+China,Macau,4/25/2020,45,0,28,17,0
 China,Ningxia,3/15/2020,75,0,73,2,0
 China,Ningxia,3/16/2020,75,0,75,0,0
 China,Ningxia,3/17/2020,75,0,75,0,0
@@ -3129,6 +3205,7 @@ China,Ningxia,4/21/2020,75,0,75,0,0
 China,Ningxia,4/22/2020,75,0,75,0,0
 China,Ningxia,4/23/2020,75,0,75,0,0
 China,Ningxia,4/24/2020,75,0,75,0,0
+China,Ningxia,4/25/2020,75,0,75,0,0
 China,Qinghai,3/15/2020,18,0,18,0,0
 China,Qinghai,3/16/2020,18,0,18,0,0
 China,Qinghai,3/17/2020,18,0,18,0,0
@@ -3170,6 +3247,7 @@ China,Qinghai,4/21/2020,18,0,18,0,0
 China,Qinghai,4/22/2020,18,0,18,0,0
 China,Qinghai,4/23/2020,18,0,18,0,0
 China,Qinghai,4/24/2020,18,0,18,0,0
+China,Qinghai,4/25/2020,18,0,18,0,0
 China,Shaanxi,3/15/2020,245,2,232,11,0
 China,Shaanxi,3/16/2020,245,2,233,10,0
 China,Shaanxi,3/17/2020,246,3,236,7,0
@@ -3211,6 +3289,7 @@ China,Shaanxi,4/21/2020,277,3,253,21,0
 China,Shaanxi,4/22/2020,279,3,253,23,0
 China,Shaanxi,4/23/2020,279,3,253,23,0
 China,Shaanxi,4/24/2020,286,3,253,30,0
+China,Shaanxi,4/25/2020,286,3,253,30,0
 China,Shandong,3/15/2020,760,7,741,12,0
 China,Shandong,3/16/2020,760,7,746,7,0
 China,Shandong,3/17/2020,761,7,746,8,0
@@ -3252,6 +3331,7 @@ China,Shandong,4/21/2020,787,7,765,15,0
 China,Shandong,4/22/2020,787,7,766,14,0
 China,Shandong,4/23/2020,787,7,766,14,0
 China,Shandong,4/24/2020,787,7,767,13,0
+China,Shandong,4/25/2020,787,7,767,13,0
 China,Shanghai,3/15/2020,353,3,324,26,0
 China,Shanghai,3/16/2020,355,3,325,27,0
 China,Shanghai,3/17/2020,358,3,325,30,0
@@ -3293,6 +3373,7 @@ China,Shanghai,4/21/2020,638,7,530,101,0
 China,Shanghai,4/22/2020,639,7,534,98,0
 China,Shanghai,4/23/2020,641,7,533,101,0
 China,Shanghai,4/24/2020,641,7,558,76,0
+China,Shanghai,4/25/2020,642,7,558,77,0
 China,Shanxi,3/15/2020,133,0,133,0,0
 China,Shanxi,3/16/2020,133,0,133,0,0
 China,Shanxi,3/17/2020,133,0,133,0,0
@@ -3334,6 +3415,7 @@ China,Shanxi,4/21/2020,197,0,140,57,0
 China,Shanxi,4/22/2020,197,0,140,57,0
 China,Shanxi,4/23/2020,197,0,142,55,0
 China,Shanxi,4/24/2020,197,0,149,48,0
+China,Shanxi,4/25/2020,197,0,154,43,0
 China,Sichuan,3/15/2020,539,3,516,20,0
 China,Sichuan,3/16/2020,539,3,516,20,0
 China,Sichuan,3/17/2020,540,3,520,17,0
@@ -3375,6 +3457,7 @@ China,Sichuan,4/21/2020,561,3,554,4,0
 China,Sichuan,4/22/2020,561,3,556,2,0
 China,Sichuan,4/23/2020,561,3,558,0,0
 China,Sichuan,4/24/2020,561,3,558,0,0
+China,Sichuan,4/25/2020,561,3,558,0,0
 China,Tianjin,3/15/2020,136,3,133,0,0
 China,Tianjin,3/16/2020,136,3,133,0,0
 China,Tianjin,3/17/2020,136,3,133,0,0
@@ -3416,6 +3499,7 @@ China,Tianjin,4/21/2020,189,3,176,10,0
 China,Tianjin,4/22/2020,189,3,176,10,0
 China,Tianjin,4/23/2020,189,3,179,7,0
 China,Tianjin,4/24/2020,190,3,181,6,0
+China,Tianjin,4/25/2020,190,3,182,5,0
 China,Tibet,3/15/2020,1,0,1,0,0
 China,Tibet,3/16/2020,1,0,1,0,0
 China,Tibet,3/17/2020,1,0,1,0,0
@@ -3457,6 +3541,7 @@ China,Tibet,4/21/2020,1,0,1,0,0
 China,Tibet,4/22/2020,1,0,1,0,0
 China,Tibet,4/23/2020,1,0,1,0,0
 China,Tibet,4/24/2020,1,0,1,0,0
+China,Tibet,4/25/2020,1,0,1,0,0
 China,Xinjiang,3/15/2020,76,3,73,0,0
 China,Xinjiang,3/16/2020,76,3,73,0,0
 China,Xinjiang,3/17/2020,76,3,73,0,0
@@ -3498,6 +3583,7 @@ China,Xinjiang,4/21/2020,76,3,73,0,0
 China,Xinjiang,4/22/2020,76,3,73,0,0
 China,Xinjiang,4/23/2020,76,3,73,0,0
 China,Xinjiang,4/24/2020,76,3,73,0,0
+China,Xinjiang,4/25/2020,76,3,73,0,0
 China,Yunnan,3/15/2020,174,2,172,0,0
 China,Yunnan,3/16/2020,176,2,172,2,0
 China,Yunnan,3/17/2020,176,2,172,2,0
@@ -3539,6 +3625,7 @@ China,Yunnan,4/21/2020,184,2,178,4,0
 China,Yunnan,4/22/2020,184,2,178,4,0
 China,Yunnan,4/23/2020,184,2,180,2,0
 China,Yunnan,4/24/2020,185,2,180,3,0
+China,Yunnan,4/25/2020,185,2,181,2,0
 China,Zhejiang,3/15/2020,1231,1,1211,19,0
 China,Zhejiang,3/16/2020,1231,1,1216,14,0
 China,Zhejiang,3/17/2020,1232,1,1216,15,0
@@ -3580,6 +3667,7 @@ China,Zhejiang,4/21/2020,1268,1,1251,16,0
 China,Zhejiang,4/22/2020,1268,1,1252,15,0
 China,Zhejiang,4/23/2020,1268,1,1256,11,0
 China,Zhejiang,4/24/2020,1268,1,1256,11,0
+China,Zhejiang,4/25/2020,1268,1,1257,10,0
 Colombia,nan,3/15/2020,34,0,0,34,0
 Colombia,nan,3/16/2020,54,0,0,54,0
 Colombia,nan,3/17/2020,65,0,1,64,0
@@ -3621,6 +3709,7 @@ Colombia,nan,4/21/2020,4149,196,804,3149,0
 Colombia,nan,4/22/2020,4356,206,870,3280,0
 Colombia,nan,4/23/2020,4561,215,927,3419,0
 Colombia,nan,4/24/2020,4881,225,1003,3653,0
+Colombia,nan,4/25/2020,5142,233,1067,3842,0
 Congo (Brazzaville),nan,3/15/2020,1,0,0,1,0
 Congo (Brazzaville),nan,3/16/2020,1,0,0,1,0
 Congo (Brazzaville),nan,3/17/2020,1,0,0,1,0
@@ -3662,6 +3751,7 @@ Congo (Brazzaville),nan,4/21/2020,165,6,16,143,0
 Congo (Brazzaville),nan,4/22/2020,186,6,16,164,0
 Congo (Brazzaville),nan,4/23/2020,186,6,16,164,0
 Congo (Brazzaville),nan,4/24/2020,200,6,19,175,0
+Congo (Brazzaville),nan,4/25/2020,200,6,19,175,0
 Congo (Kinshasa),nan,3/15/2020,2,0,0,2,0
 Congo (Kinshasa),nan,3/16/2020,2,0,0,2,0
 Congo (Kinshasa),nan,3/17/2020,3,0,0,3,0
@@ -3703,6 +3793,7 @@ Congo (Kinshasa),nan,4/21/2020,350,25,35,290,0
 Congo (Kinshasa),nan,4/22/2020,359,25,45,289,0
 Congo (Kinshasa),nan,4/23/2020,377,25,47,305,0
 Congo (Kinshasa),nan,4/24/2020,394,25,48,321,0
+Congo (Kinshasa),nan,4/25/2020,416,28,49,339,0
 Costa Rica,nan,3/15/2020,27,0,0,27,0
 Costa Rica,nan,3/16/2020,35,0,0,35,0
 Costa Rica,nan,3/17/2020,41,0,0,41,0
@@ -3744,6 +3835,7 @@ Costa Rica,nan,4/21/2020,669,6,150,513,0
 Costa Rica,nan,4/22/2020,681,6,180,495,0
 Costa Rica,nan,4/23/2020,686,6,196,484,0
 Costa Rica,nan,4/24/2020,687,6,216,465,0
+Costa Rica,nan,4/25/2020,693,6,242,445,0
 Cote d'Ivoire,nan,3/15/2020,1,0,0,1,0
 Cote d'Ivoire,nan,3/16/2020,1,0,0,1,0
 Cote d'Ivoire,nan,3/17/2020,5,0,1,4,0
@@ -3785,6 +3877,7 @@ Cote d'Ivoire,nan,4/21/2020,916,13,303,600,0
 Cote d'Ivoire,nan,4/22/2020,952,14,310,628,0
 Cote d'Ivoire,nan,4/23/2020,1004,14,359,631,0
 Cote d'Ivoire,nan,4/24/2020,1077,14,419,644,0
+Cote d'Ivoire,nan,4/25/2020,1077,14,419,644,0
 Croatia,nan,3/15/2020,49,0,1,48,0
 Croatia,nan,3/16/2020,57,0,2,55,0
 Croatia,nan,3/17/2020,65,0,4,61,0
@@ -3826,6 +3919,7 @@ Croatia,nan,4/21/2020,1908,48,801,1059,0
 Croatia,nan,4/22/2020,1950,48,869,1033,0
 Croatia,nan,4/23/2020,1981,50,883,1048,0
 Croatia,nan,4/24/2020,2009,51,982,976,0
+Croatia,nan,4/25/2020,2016,54,1034,928,0
 Cruise Ship,Diamond Princess,3/15/2020,696,7,325,364,0
 Cruise Ship,Diamond Princess,3/16/2020,696,7,325,364,0
 Cruise Ship,Diamond Princess,3/17/2020,696,7,325,364,0
@@ -3876,6 +3970,7 @@ Cuba,nan,4/21/2020,1137,38,309,790,0
 Cuba,nan,4/22/2020,1189,40,341,808,0
 Cuba,nan,4/23/2020,1235,43,365,827,0
 Cuba,nan,4/24/2020,1285,49,416,820,0
+Cuba,nan,4/25/2020,1337,51,437,849,0
 Curacao,nan,3/15/2020,1,0,0,1,0
 Cyprus,nan,3/15/2020,26,0,0,26,0
 Cyprus,nan,3/16/2020,33,0,0,33,0
@@ -3918,6 +4013,7 @@ Cyprus,nan,4/21/2020,784,12,98,674,0
 Cyprus,nan,4/22/2020,790,13,98,679,0
 Cyprus,nan,4/23/2020,795,13,98,684,0
 Cyprus,nan,4/24/2020,804,14,98,692,0
+Cyprus,nan,4/25/2020,810,14,148,648,0
 Czechia,nan,3/15/2020,253,0,0,253,0
 Czechia,nan,3/16/2020,298,0,3,295,0
 Czechia,nan,3/17/2020,396,0,3,393,0
@@ -3959,6 +4055,7 @@ Czechia,nan,4/21/2020,7033,201,1753,5079,0
 Czechia,nan,4/22/2020,7132,208,1989,4935,0
 Czechia,nan,4/23/2020,7187,210,2152,4825,0
 Czechia,nan,4/24/2020,7273,214,2371,4688,0
+Czechia,nan,4/25/2020,7352,218,2453,4681,0
 Denmark,Denmark,3/15/2020,864,2,1,861,0
 Denmark,Denmark,3/16/2020,914,3,1,910,0
 Denmark,Denmark,3/17/2020,977,4,1,972,0
@@ -4007,6 +4104,7 @@ Denmark,Faroe Islands,4/21/2020,185,0,178,7,0
 Denmark,Faroe Islands,4/22/2020,185,0,178,7,0
 Denmark,Faroe Islands,4/23/2020,187,0,178,9,0
 Denmark,Faroe Islands,4/24/2020,187,0,178,9,0
+Denmark,Faroe Islands,4/25/2020,187,0,178,9,0
 Denmark,Greenland,3/19/2020,2,0,0,2,0
 Denmark,Greenland,3/20/2020,2,0,0,2,0
 Denmark,Greenland,3/21/2020,2,0,0,2,0
@@ -4044,6 +4142,7 @@ Denmark,Greenland,4/21/2020,11,0,11,0,0
 Denmark,Greenland,4/22/2020,11,0,11,0,0
 Denmark,Greenland,4/23/2020,11,0,11,0,0
 Denmark,Greenland,4/24/2020,11,0,11,0,0
+Denmark,Greenland,4/25/2020,11,0,11,0,0
 Denmark,nan,3/22/2020,1395,13,1,1381,0
 Denmark,nan,3/23/2020,1450,24,1,1425,0
 Denmark,nan,3/24/2020,1591,32,1,1558,0
@@ -4078,6 +4177,7 @@ Denmark,nan,4/21/2020,7695,370,4700,2625,0
 Denmark,nan,4/22/2020,7912,384,5087,2441,0
 Denmark,nan,4/23/2020,8073,394,5384,2295,0
 Denmark,nan,4/24/2020,8210,403,5526,2281,0
+Denmark,nan,4/25/2020,8445,418,5669,2358,0
 Diamond Princess,nan,3/25/2020,712,10,587,115,0
 Diamond Princess,nan,3/26/2020,712,10,597,105,0
 Diamond Princess,nan,3/27/2020,712,10,597,105,0
@@ -4109,6 +4209,7 @@ Diamond Princess,nan,4/21/2020,712,13,644,55,0
 Diamond Princess,nan,4/22/2020,712,13,644,55,0
 Diamond Princess,nan,4/23/2020,712,13,645,54,0
 Diamond Princess,nan,4/24/2020,712,13,645,54,0
+Diamond Princess,nan,4/25/2020,712,13,645,54,0
 Djibouti,nan,3/18/2020,1,0,0,1,0
 Djibouti,nan,3/19/2020,1,0,0,1,0
 Djibouti,nan,3/20/2020,1,0,0,1,0
@@ -4147,6 +4248,7 @@ Djibouti,nan,4/21/2020,945,2,112,831,0
 Djibouti,nan,4/22/2020,974,2,183,789,0
 Djibouti,nan,4/23/2020,986,2,252,732,0
 Djibouti,nan,4/24/2020,999,2,330,667,0
+Djibouti,nan,4/25/2020,1008,2,373,633,0
 Dominica,nan,3/22/2020,1,0,0,1,0
 Dominica,nan,3/23/2020,2,0,0,2,0
 Dominica,nan,3/24/2020,2,0,0,2,0
@@ -4181,6 +4283,7 @@ Dominica,nan,4/21/2020,16,0,8,8,0
 Dominica,nan,4/22/2020,16,0,9,7,0
 Dominica,nan,4/23/2020,16,0,9,7,0
 Dominica,nan,4/24/2020,16,0,10,6,0
+Dominica,nan,4/25/2020,16,0,13,3,0
 Dominican Republic,nan,3/15/2020,11,0,0,11,0
 Dominican Republic,nan,3/16/2020,11,0,0,11,0
 Dominican Republic,nan,3/17/2020,21,1,0,20,0
@@ -4222,6 +4325,7 @@ Dominican Republic,nan,4/21/2020,5044,245,463,4336,0
 Dominican Republic,nan,4/22/2020,5300,260,581,4459,0
 Dominican Republic,nan,4/23/2020,5543,265,581,4697,0
 Dominican Republic,nan,4/24/2020,5749,267,763,4719,0
+Dominican Republic,nan,4/25/2020,5926,273,822,4831,0
 East Timor,nan,3/21/2020,1,0,0,1,0
 Ecuador,nan,3/15/2020,28,2,0,26,0
 Ecuador,nan,3/16/2020,37,2,0,35,0
@@ -4264,6 +4368,7 @@ Ecuador,nan,4/21/2020,10398,520,1207,8671,0
 Ecuador,nan,4/22/2020,10850,537,1262,9051,0
 Ecuador,nan,4/23/2020,11183,560,1328,9295,0
 Ecuador,nan,4/24/2020,22719,576,1366,20777,0
+Ecuador,nan,4/25/2020,22719,576,1366,20777,0
 Egypt,nan,3/15/2020,110,2,21,87,0
 Egypt,nan,3/16/2020,150,2,27,121,0
 Egypt,nan,3/17/2020,196,4,32,160,0
@@ -4305,6 +4410,7 @@ Egypt,nan,4/21/2020,3490,264,870,2356,0
 Egypt,nan,4/22/2020,3659,276,935,2448,0
 Egypt,nan,4/23/2020,3891,287,1004,2600,0
 Egypt,nan,4/24/2020,4092,294,1075,2723,0
+Egypt,nan,4/25/2020,4319,307,1114,2898,0
 El Salvador,nan,3/19/2020,1,0,0,1,0
 El Salvador,nan,3/20/2020,1,0,0,1,0
 El Salvador,nan,3/21/2020,3,0,0,3,0
@@ -4342,6 +4448,7 @@ El Salvador,nan,4/21/2020,225,7,48,170,0
 El Salvador,nan,4/22/2020,237,7,63,167,0
 El Salvador,nan,4/23/2020,250,8,67,175,0
 El Salvador,nan,4/24/2020,274,8,75,191,0
+El Salvador,nan,4/25/2020,274,8,75,191,0
 Equatorial Guinea,nan,3/15/2020,1,0,0,1,0
 Equatorial Guinea,nan,3/16/2020,1,0,0,1,0
 Equatorial Guinea,nan,3/17/2020,1,0,0,1,0
@@ -4383,6 +4490,7 @@ Equatorial Guinea,nan,4/21/2020,83,0,7,76,0
 Equatorial Guinea,nan,4/22/2020,84,1,7,76,0
 Equatorial Guinea,nan,4/23/2020,84,1,7,76,0
 Equatorial Guinea,nan,4/24/2020,214,1,7,206,0
+Equatorial Guinea,nan,4/25/2020,258,1,7,250,0
 Eritrea,nan,3/21/2020,1,0,0,1,0
 Eritrea,nan,3/22/2020,1,0,0,1,0
 Eritrea,nan,3/23/2020,1,0,0,1,0
@@ -4418,6 +4526,7 @@ Eritrea,nan,4/21/2020,39,0,6,33,0
 Eritrea,nan,4/22/2020,39,0,6,33,0
 Eritrea,nan,4/23/2020,39,0,6,33,0
 Eritrea,nan,4/24/2020,39,0,11,28,0
+Eritrea,nan,4/25/2020,39,0,13,26,0
 Estonia,nan,3/15/2020,171,0,1,170,0
 Estonia,nan,3/16/2020,205,0,1,204,0
 Estonia,nan,3/17/2020,225,0,1,224,0
@@ -4459,6 +4568,7 @@ Estonia,nan,4/21/2020,1552,43,169,1340,0
 Estonia,nan,4/22/2020,1559,44,184,1331,0
 Estonia,nan,4/23/2020,1592,45,192,1355,0
 Estonia,nan,4/24/2020,1605,46,206,1353,0
+Estonia,nan,4/25/2020,1635,46,228,1361,0
 Eswatini,nan,3/15/2020,1,0,0,1,0
 Eswatini,nan,3/16/2020,1,0,0,1,0
 Eswatini,nan,3/17/2020,1,0,0,1,0
@@ -4500,6 +4610,7 @@ Eswatini,nan,4/21/2020,31,1,8,22,0
 Eswatini,nan,4/22/2020,31,1,8,22,0
 Eswatini,nan,4/23/2020,31,1,8,22,0
 Eswatini,nan,4/24/2020,36,1,10,25,0
+Eswatini,nan,4/25/2020,56,1,10,45,0
 Ethiopia,nan,3/15/2020,1,0,0,1,0
 Ethiopia,nan,3/16/2020,5,0,0,5,0
 Ethiopia,nan,3/17/2020,5,0,0,5,0
@@ -4541,6 +4652,7 @@ Ethiopia,nan,4/21/2020,114,3,16,95,0
 Ethiopia,nan,4/22/2020,116,3,21,92,0
 Ethiopia,nan,4/23/2020,116,3,21,92,0
 Ethiopia,nan,4/24/2020,117,3,25,89,0
+Ethiopia,nan,4/25/2020,122,3,29,90,0
 Fiji,nan,3/19/2020,1,0,0,1,0
 Fiji,nan,3/20/2020,1,0,0,1,0
 Fiji,nan,3/21/2020,1,0,0,1,0
@@ -4578,6 +4690,7 @@ Fiji,nan,4/21/2020,18,0,3,15,0
 Fiji,nan,4/22/2020,18,0,8,10,0
 Fiji,nan,4/23/2020,18,0,8,10,0
 Fiji,nan,4/24/2020,18,0,10,8,0
+Fiji,nan,4/25/2020,18,0,10,8,0
 Finland,nan,3/15/2020,244,0,10,234,0
 Finland,nan,3/16/2020,277,0,10,267,0
 Finland,nan,3/17/2020,321,0,10,311,0
@@ -4619,6 +4732,7 @@ Finland,nan,4/21/2020,4014,141,2000,1873,0
 Finland,nan,4/22/2020,4129,149,2000,1980,0
 Finland,nan,4/23/2020,4284,172,2000,2112,0
 Finland,nan,4/24/2020,4395,177,2500,1718,0
+Finland,nan,4/25/2020,4475,186,2500,1789,0
 France,France,3/15/2020,4499,91,12,4396,0
 France,France,3/16/2020,6633,148,12,6473,0
 France,France,3/17/2020,7652,148,12,7492,0
@@ -4667,6 +4781,7 @@ France,French Guiana,4/21/2020,97,1,76,20,0
 France,French Guiana,4/22/2020,97,1,83,13,0
 France,French Guiana,4/23/2020,107,1,84,22,0
 France,French Guiana,4/24/2020,111,1,87,23,0
+France,French Guiana,4/25/2020,111,1,87,23,0
 France,French Polynesia,3/15/2020,3,0,0,3,0
 France,French Polynesia,3/16/2020,3,0,0,3,0
 France,French Polynesia,3/17/2020,3,0,0,3,0
@@ -4708,6 +4823,7 @@ France,French Polynesia,4/21/2020,56,0,19,37,0
 France,French Polynesia,4/22/2020,57,0,35,22,0
 France,French Polynesia,4/23/2020,57,0,36,21,0
 France,French Polynesia,4/24/2020,57,0,41,16,0
+France,French Polynesia,4/25/2020,57,0,41,16,0
 France,Guadeloupe,3/16/2020,3,0,0,3,0
 France,Guadeloupe,3/17/2020,6,0,0,6,0
 France,Guadeloupe,3/18/2020,0,0,0,0,0
@@ -4748,6 +4864,7 @@ France,Guadeloupe,4/21/2020,148,12,73,63,0
 France,Guadeloupe,4/22/2020,148,12,73,63,0
 France,Guadeloupe,4/23/2020,148,12,76,60,0
 France,Guadeloupe,4/24/2020,149,12,82,55,0
+France,Guadeloupe,4/25/2020,149,12,82,55,0
 France,Martinique,3/22/2020,37,1,0,36,0
 France,Martinique,3/23/2020,53,1,0,52,0
 France,Martinique,3/24/2020,57,1,0,56,0
@@ -4782,6 +4899,7 @@ France,Martinique,4/21/2020,163,14,73,76,0
 France,Martinique,4/22/2020,164,14,73,77,0
 France,Martinique,4/23/2020,164,14,73,77,0
 France,Martinique,4/24/2020,170,14,77,79,0
+France,Martinique,4/25/2020,175,14,77,84,0
 France,Mayotte,3/15/2020,1,0,0,1,0
 France,Mayotte,3/16/2020,1,0,0,1,0
 France,Mayotte,3/17/2020,1,0,0,1,0
@@ -4823,6 +4941,7 @@ France,Mayotte,4/21/2020,311,4,117,190,0
 France,Mayotte,4/22/2020,326,4,125,197,0
 France,Mayotte,4/23/2020,326,4,125,197,0
 France,Mayotte,4/24/2020,354,4,144,206,0
+France,Mayotte,4/25/2020,380,4,144,232,0
 France,New Caledonia,3/19/2020,2,0,0,2,0
 France,New Caledonia,3/20/2020,2,0,0,2,0
 France,New Caledonia,3/21/2020,4,0,0,4,0
@@ -4860,6 +4979,7 @@ France,New Caledonia,4/21/2020,18,0,17,1,0
 France,New Caledonia,4/22/2020,18,0,17,1,0
 France,New Caledonia,4/23/2020,18,0,17,1,0
 France,New Caledonia,4/24/2020,18,0,17,1,0
+France,New Caledonia,4/25/2020,18,0,17,1,0
 France,Reunion,3/17/2020,9,0,0,9,0
 France,Reunion,3/18/2020,0,0,0,0,0
 France,Reunion,3/19/2020,0,0,0,0,0
@@ -4899,6 +5019,7 @@ France,Reunion,4/21/2020,410,0,238,172,0
 France,Reunion,4/22/2020,410,0,238,172,0
 France,Reunion,4/23/2020,412,0,238,174,0
 France,Reunion,4/24/2020,412,0,300,112,0
+France,Reunion,4/25/2020,417,0,300,117,0
 France,Saint Barthelemy,3/15/2020,1,0,0,1,0
 France,Saint Barthelemy,3/16/2020,3,0,0,3,0
 France,Saint Barthelemy,3/17/2020,3,0,0,3,0
@@ -4940,6 +5061,7 @@ France,Saint Barthelemy,4/21/2020,6,0,6,0,0
 France,Saint Barthelemy,4/22/2020,6,0,6,0,0
 France,Saint Barthelemy,4/23/2020,6,0,6,0,0
 France,Saint Barthelemy,4/24/2020,6,0,6,0,0
+France,Saint Barthelemy,4/25/2020,6,0,6,0,0
 France,Saint Pierre and Miquelon,4/05/2020,1,0,0,1,0
 France,Saint Pierre and Miquelon,4/06/2020,1,0,0,1,0
 France,Saint Pierre and Miquelon,4/07/2020,1,0,0,1,0
@@ -4960,6 +5082,7 @@ France,Saint Pierre and Miquelon,4/21/2020,1,0,0,1,0
 France,Saint Pierre and Miquelon,4/22/2020,1,0,0,1,0
 France,Saint Pierre and Miquelon,4/23/2020,1,0,0,1,0
 France,Saint Pierre and Miquelon,4/24/2020,1,0,0,1,0
+France,Saint Pierre and Miquelon,4/25/2020,1,0,0,1,0
 France,St Martin,3/15/2020,2,0,0,2,0
 France,St Martin,3/16/2020,2,0,0,2,0
 France,St Martin,3/17/2020,2,0,0,2,0
@@ -5001,6 +5124,7 @@ France,St Martin,4/21/2020,37,2,19,16,0
 France,St Martin,4/22/2020,38,2,19,17,0
 France,St Martin,4/23/2020,38,2,19,17,0
 France,St Martin,4/24/2020,38,3,24,11,0
+France,St Martin,4/25/2020,38,3,24,11,0
 France,nan,3/22/2020,16018,674,2200,13144,0
 France,nan,3/24/2020,22304,1100,3281,17923,0
 France,nan,3/25/2020,25233,1331,3900,20002,0
@@ -5034,6 +5158,7 @@ France,nan,4/21/2020,158050,20796,39181,98073,0
 France,nan,4/22/2020,155860,21340,40657,93863,0
 France,nan,4/23/2020,158183,21856,42088,94239,0
 France,nan,4/24/2020,158636,22245,43493,92898,0
+France,nan,4/25/2020,160292,22614,44594,93084,0
 French Guiana,nan,3/16/2020,11,0,0,11,0
 French Guiana,nan,3/17/2020,11,0,0,11,0
 French Guiana,nan,3/18/2020,11,0,0,11,0
@@ -5081,6 +5206,7 @@ Gabon,nan,4/21/2020,156,1,16,139,0
 Gabon,nan,4/22/2020,166,1,24,141,0
 Gabon,nan,4/23/2020,167,2,24,141,0
 Gabon,nan,4/24/2020,172,3,26,143,0
+Gabon,nan,4/25/2020,176,3,30,143,0
 Gambia,nan,3/22/2020,1,0,0,1,0
 Gambia,nan,3/23/2020,2,1,0,1,0
 Gambia,nan,3/24/2020,3,1,0,2,0
@@ -5115,6 +5241,7 @@ Gambia,nan,4/21/2020,10,1,2,7,0
 Gambia,nan,4/22/2020,10,1,2,7,0
 Gambia,nan,4/23/2020,10,1,2,7,0
 Gambia,nan,4/24/2020,10,1,8,1,0
+Gambia,nan,4/25/2020,10,1,8,1,0
 "Gambia, The",nan,3/18/2020,1,0,0,1,0
 "Gambia, The",nan,3/19/2020,1,0,0,1,0
 "Gambia, The",nan,3/20/2020,1,0,0,1,0
@@ -5160,6 +5287,7 @@ Georgia,nan,4/21/2020,408,4,97,307,0
 Georgia,nan,4/22/2020,416,5,107,304,0
 Georgia,nan,4/23/2020,425,5,111,309,0
 Georgia,nan,4/24/2020,444,5,132,307,0
+Georgia,nan,4/25/2020,456,5,139,312,0
 Germany,nan,3/15/2020,5795,11,46,5738,0
 Germany,nan,3/16/2020,7272,17,67,7188,0
 Germany,nan,3/17/2020,9257,24,67,9166,0
@@ -5201,6 +5329,7 @@ Germany,nan,4/21/2020,148291,5033,95200,48058,0
 Germany,nan,4/22/2020,150648,5279,99400,45969,0
 Germany,nan,4/23/2020,153129,5575,103300,44254,0
 Germany,nan,4/24/2020,154999,5760,109800,39439,0
+Germany,nan,4/25/2020,156513,5877,109800,40836,0
 Ghana,nan,3/15/2020,6,0,0,6,0
 Ghana,nan,3/16/2020,6,0,0,6,0
 Ghana,nan,3/17/2020,7,0,0,7,0
@@ -5242,6 +5371,7 @@ Ghana,nan,4/21/2020,1042,9,99,934,0
 Ghana,nan,4/22/2020,1154,9,99,1046,0
 Ghana,nan,4/23/2020,1154,9,99,1046,0
 Ghana,nan,4/24/2020,1279,10,134,1135,0
+Ghana,nan,4/25/2020,1279,10,134,1135,0
 Greece,nan,3/15/2020,331,4,8,319,0
 Greece,nan,3/16/2020,331,4,8,319,0
 Greece,nan,3/17/2020,387,5,8,374,0
@@ -5283,6 +5413,7 @@ Greece,nan,4/21/2020,2401,121,577,1703,0
 Greece,nan,4/22/2020,2408,121,577,1710,0
 Greece,nan,4/23/2020,2463,125,577,1761,0
 Greece,nan,4/24/2020,2490,130,577,1783,0
+Greece,nan,4/25/2020,2506,130,577,1799,0
 Greenland,nan,3/16/2020,1,0,0,1,0
 Greenland,nan,3/17/2020,1,0,0,1,0
 Greenland,nan,3/18/2020,1,0,0,1,0
@@ -5323,6 +5454,7 @@ Grenada,nan,4/21/2020,14,0,6,8,0
 Grenada,nan,4/22/2020,15,0,6,9,0
 Grenada,nan,4/23/2020,15,0,6,9,0
 Grenada,nan,4/24/2020,15,0,7,8,0
+Grenada,nan,4/25/2020,18,0,7,11,0
 Guadeloupe,nan,3/15/2020,3,0,0,3,0
 Guadeloupe,nan,3/16/2020,6,0,0,6,0
 Guadeloupe,nan,3/17/2020,18,0,0,18,0
@@ -5377,6 +5509,7 @@ Guatemala,nan,4/21/2020,294,7,24,263,0
 Guatemala,nan,4/22/2020,316,8,24,284,0
 Guatemala,nan,4/23/2020,384,11,30,343,0
 Guatemala,nan,4/24/2020,430,11,30,389,0
+Guatemala,nan,4/25/2020,473,13,45,415,0
 Guernsey,nan,3/15/2020,1,0,0,1,0
 Guernsey,nan,3/16/2020,1,0,0,1,0
 Guernsey,nan,3/17/2020,0,0,0,0,0
@@ -5425,6 +5558,7 @@ Guinea,nan,4/21/2020,688,6,127,555,0
 Guinea,nan,4/22/2020,761,6,164,591,0
 Guinea,nan,4/23/2020,862,6,170,686,0
 Guinea,nan,4/24/2020,954,6,191,757,0
+Guinea,nan,4/25/2020,996,7,208,781,0
 Guinea-Bissau,nan,3/25/2020,2,0,0,2,0
 Guinea-Bissau,nan,3/26/2020,2,0,0,2,0
 Guinea-Bissau,nan,3/27/2020,2,0,0,2,0
@@ -5456,6 +5590,7 @@ Guinea-Bissau,nan,4/21/2020,50,0,3,47,0
 Guinea-Bissau,nan,4/22/2020,50,0,3,47,0
 Guinea-Bissau,nan,4/23/2020,50,0,3,47,0
 Guinea-Bissau,nan,4/24/2020,52,0,3,49,0
+Guinea-Bissau,nan,4/25/2020,52,0,3,49,0
 Guyana,nan,3/15/2020,4,1,0,3,0
 Guyana,nan,3/16/2020,4,1,0,3,0
 Guyana,nan,3/17/2020,7,1,0,6,0
@@ -5497,6 +5632,7 @@ Guyana,nan,4/21/2020,66,7,9,50,0
 Guyana,nan,4/22/2020,67,7,9,51,0
 Guyana,nan,4/23/2020,70,7,9,54,0
 Guyana,nan,4/24/2020,73,7,12,54,0
+Guyana,nan,4/25/2020,73,7,12,54,0
 Haiti,nan,3/20/2020,2,0,0,2,0
 Haiti,nan,3/21/2020,2,0,0,2,0
 Haiti,nan,3/22/2020,2,0,0,2,0
@@ -5533,6 +5669,7 @@ Haiti,nan,4/21/2020,57,3,0,54,0
 Haiti,nan,4/22/2020,62,4,2,56,0
 Haiti,nan,4/23/2020,72,5,2,65,0
 Haiti,nan,4/24/2020,72,6,6,60,0
+Haiti,nan,4/25/2020,72,6,6,60,0
 Holy See,nan,3/15/2020,1,0,0,1,0
 Holy See,nan,3/16/2020,1,0,0,1,0
 Holy See,nan,3/17/2020,1,0,0,1,0
@@ -5574,6 +5711,7 @@ Holy See,nan,4/21/2020,9,0,2,7,0
 Holy See,nan,4/22/2020,9,0,2,7,0
 Holy See,nan,4/23/2020,9,0,2,7,0
 Holy See,nan,4/24/2020,9,0,2,7,0
+Holy See,nan,4/25/2020,9,0,2,7,0
 Honduras,nan,3/15/2020,3,0,0,3,0
 Honduras,nan,3/16/2020,6,0,0,6,0
 Honduras,nan,3/17/2020,8,0,0,8,0
@@ -5615,6 +5753,7 @@ Honduras,nan,4/21/2020,494,46,29,419,0
 Honduras,nan,4/22/2020,510,46,30,434,0
 Honduras,nan,4/23/2020,519,47,31,441,0
 Honduras,nan,4/24/2020,591,55,58,478,0
+Honduras,nan,4/25/2020,627,59,65,503,0
 Hungary,nan,3/15/2020,32,1,1,30,0
 Hungary,nan,3/16/2020,39,1,1,37,0
 Hungary,nan,3/17/2020,50,1,2,47,0
@@ -5656,6 +5795,7 @@ Hungary,nan,4/21/2020,2098,213,287,1598,0
 Hungary,nan,4/22/2020,2168,225,295,1648,0
 Hungary,nan,4/23/2020,2284,239,390,1655,0
 Hungary,nan,4/24/2020,2443,262,458,1723,0
+Hungary,nan,4/25/2020,2443,262,458,1723,0
 Iceland,nan,3/15/2020,171,5,8,158,0
 Iceland,nan,3/16/2020,180,0,0,180,0
 Iceland,nan,3/17/2020,220,1,0,219,0
@@ -5697,6 +5837,7 @@ Iceland,nan,4/21/2020,1778,10,1417,351,0
 Iceland,nan,4/22/2020,1785,10,1462,313,0
 Iceland,nan,4/23/2020,1789,10,1509,270,0
 Iceland,nan,4/24/2020,1789,10,1542,237,0
+Iceland,nan,4/25/2020,1790,10,1570,210,0
 India,nan,3/15/2020,113,2,13,98,0
 India,nan,3/16/2020,119,2,13,104,0
 India,nan,3/17/2020,142,3,14,125,0
@@ -5738,6 +5879,7 @@ India,nan,4/21/2020,20080,645,3975,15460,0
 India,nan,4/22/2020,21370,681,4370,16319,0
 India,nan,4/23/2020,23077,721,5012,17344,0
 India,nan,4/24/2020,24530,780,5498,18252,0
+India,nan,4/25/2020,26283,825,5939,19519,0
 Indonesia,nan,3/15/2020,117,5,8,104,0
 Indonesia,nan,3/16/2020,134,5,8,121,0
 Indonesia,nan,3/17/2020,172,5,8,159,0
@@ -5779,6 +5921,7 @@ Indonesia,nan,4/21/2020,7135,616,842,5677,0
 Indonesia,nan,4/22/2020,7418,635,913,5870,0
 Indonesia,nan,4/23/2020,7775,647,960,6168,0
 Indonesia,nan,4/24/2020,8211,689,1002,6520,0
+Indonesia,nan,4/25/2020,8607,720,1042,6845,0
 Iran,nan,3/15/2020,13938,724,4590,8624,0
 Iran,nan,3/16/2020,14991,853,4590,9548,0
 Iran,nan,3/17/2020,16169,988,5389,9792,0
@@ -5820,6 +5963,7 @@ Iran,nan,4/21/2020,84802,5297,60965,18540,0
 Iran,nan,4/22/2020,85996,5391,63113,17492,0
 Iran,nan,4/23/2020,87026,5481,64843,16702,0
 Iran,nan,4/24/2020,88194,5574,66599,16021,0
+Iran,nan,4/25/2020,89328,5650,68193,15485,0
 Iraq,nan,3/15/2020,116,10,26,80,0
 Iraq,nan,3/16/2020,124,10,26,88,0
 Iraq,nan,3/17/2020,154,11,32,111,0
@@ -5861,6 +6005,7 @@ Iraq,nan,4/21/2020,1602,83,1096,423,0
 Iraq,nan,4/22/2020,1631,83,1146,402,0
 Iraq,nan,4/23/2020,1677,83,1171,423,0
 Iraq,nan,4/24/2020,1708,86,1204,418,0
+Iraq,nan,4/25/2020,1763,86,1224,453,0
 Ireland,nan,3/15/2020,129,2,0,127,0
 Ireland,nan,3/16/2020,169,2,0,167,0
 Ireland,nan,3/17/2020,223,2,5,216,0
@@ -5902,6 +6047,7 @@ Ireland,nan,4/21/2020,16040,730,9233,6077,0
 Ireland,nan,4/22/2020,16671,769,9233,6669,0
 Ireland,nan,4/23/2020,17607,794,9233,7580,0
 Ireland,nan,4/24/2020,18184,1014,9233,7937,0
+Ireland,nan,4/25/2020,18561,1063,9233,8265,0
 Israel,nan,3/15/2020,251,0,4,247,0
 Israel,nan,3/16/2020,255,0,4,251,0
 Israel,nan,3/17/2020,337,0,11,326,0
@@ -5943,6 +6089,7 @@ Israel,nan,4/21/2020,13942,184,4507,9251,0
 Israel,nan,4/22/2020,14498,189,5215,9094,0
 Israel,nan,4/23/2020,14803,192,5611,9000,0
 Israel,nan,4/24/2020,15058,194,6003,8861,0
+Israel,nan,4/25/2020,15298,199,6435,8664,0
 Italy,nan,3/15/2020,24747,1809,2335,20603,0
 Italy,nan,3/16/2020,27980,2158,2749,23073,0
 Italy,nan,3/17/2020,31506,2503,2941,26062,0
@@ -5984,6 +6131,7 @@ Italy,nan,4/21/2020,183957,24648,51600,107709,0
 Italy,nan,4/22/2020,187327,25085,54543,107699,0
 Italy,nan,4/23/2020,189973,25549,57576,106848,0
 Italy,nan,4/24/2020,192994,25969,60498,106527,0
+Italy,nan,4/25/2020,195351,26384,63120,105847,0
 Jamaica,nan,3/15/2020,10,0,0,10,0
 Jamaica,nan,3/16/2020,10,0,2,8,0
 Jamaica,nan,3/17/2020,12,0,2,10,0
@@ -6025,6 +6173,7 @@ Jamaica,nan,4/21/2020,223,6,27,190,0
 Jamaica,nan,4/22/2020,233,6,27,200,0
 Jamaica,nan,4/23/2020,257,6,28,223,0
 Jamaica,nan,4/24/2020,288,7,28,253,0
+Jamaica,nan,4/25/2020,305,7,28,270,0
 Japan,nan,3/15/2020,839,22,118,699,0
 Japan,nan,3/16/2020,825,27,144,654,0
 Japan,nan,3/17/2020,878,29,144,705,0
@@ -6066,6 +6215,7 @@ Japan,nan,4/21/2020,11135,263,1239,9633,0
 Japan,nan,4/22/2020,11512,281,1356,9875,0
 Japan,nan,4/23/2020,12368,328,1494,10546,0
 Japan,nan,4/24/2020,12829,345,1530,10954,0
+Japan,nan,4/25/2020,13231,360,1656,11215,0
 Jersey,nan,3/15/2020,2,0,0,2,0
 Jersey,nan,3/16/2020,2,0,0,2,0
 Jersey,nan,3/17/2020,0,0,0,0,0
@@ -6114,6 +6264,7 @@ Jordan,nan,4/21/2020,428,7,297,124,0
 Jordan,nan,4/22/2020,435,7,315,113,0
 Jordan,nan,4/23/2020,437,7,318,112,0
 Jordan,nan,4/24/2020,441,7,326,108,0
+Jordan,nan,4/25/2020,444,7,332,105,0
 Kazakhstan,nan,3/15/2020,9,0,0,9,0
 Kazakhstan,nan,3/16/2020,10,0,0,10,0
 Kazakhstan,nan,3/17/2020,33,0,0,33,0
@@ -6155,6 +6306,7 @@ Kazakhstan,nan,4/21/2020,1995,19,489,1487,0
 Kazakhstan,nan,4/22/2020,2135,19,515,1601,0
 Kazakhstan,nan,4/23/2020,2289,20,560,1709,0
 Kazakhstan,nan,4/24/2020,2482,25,604,1853,0
+Kazakhstan,nan,4/25/2020,2601,25,646,1930,0
 Kenya,nan,3/15/2020,3,0,0,3,0
 Kenya,nan,3/16/2020,3,0,0,3,0
 Kenya,nan,3/17/2020,3,0,0,3,0
@@ -6196,6 +6348,7 @@ Kenya,nan,4/21/2020,296,14,74,208,0
 Kenya,nan,4/22/2020,303,14,74,215,0
 Kenya,nan,4/23/2020,320,14,89,217,0
 Kenya,nan,4/24/2020,336,14,94,228,0
+Kenya,nan,4/25/2020,343,14,98,231,0
 "Korea, South",nan,3/15/2020,8162,75,510,7577,0
 "Korea, South",nan,3/16/2020,8236,75,1137,7024,0
 "Korea, South",nan,3/17/2020,8320,81,1407,6832,0
@@ -6237,6 +6390,7 @@ Kenya,nan,4/24/2020,336,14,94,228,0
 "Korea, South",nan,4/22/2020,10694,238,8277,2179,0
 "Korea, South",nan,4/23/2020,10708,240,8501,1967,0
 "Korea, South",nan,4/24/2020,10718,240,8635,1843,0
+"Korea, South",nan,4/25/2020,10728,242,8717,1769,0
 Kosovo,nan,3/15/2020,2,0,0,2,0
 Kosovo,nan,3/16/2020,2,0,0,2,0
 Kosovo,nan,3/17/2020,2,0,0,2,0
@@ -6274,6 +6428,7 @@ Kosovo,nan,4/21/2020,510,12,93,405,0
 Kosovo,nan,4/22/2020,510,12,93,405,0
 Kosovo,nan,4/23/2020,510,12,93,405,0
 Kosovo,nan,4/24/2020,510,12,93,405,0
+Kosovo,nan,4/25/2020,510,12,93,405,0
 Kuwait,nan,3/15/2020,112,0,5,107,0
 Kuwait,nan,3/16/2020,123,0,9,114,0
 Kuwait,nan,3/17/2020,130,0,9,121,0
@@ -6315,6 +6470,7 @@ Kuwait,nan,4/21/2020,2080,11,412,1657,0
 Kuwait,nan,4/22/2020,2248,13,443,1792,0
 Kuwait,nan,4/23/2020,2399,14,498,1887,0
 Kuwait,nan,4/24/2020,2614,15,613,1986,0
+Kuwait,nan,4/25/2020,2892,19,656,2217,0
 Kyrgyzstan,nan,3/18/2020,3,0,0,3,0
 Kyrgyzstan,nan,3/19/2020,3,0,0,3,0
 Kyrgyzstan,nan,3/20/2020,6,0,0,6,0
@@ -6353,6 +6509,7 @@ Kyrgyzstan,nan,4/21/2020,590,7,216,367,0
 Kyrgyzstan,nan,4/22/2020,612,7,254,351,0
 Kyrgyzstan,nan,4/23/2020,631,8,302,321,0
 Kyrgyzstan,nan,4/24/2020,665,8,345,312,0
+Kyrgyzstan,nan,4/25/2020,665,8,345,312,0
 Laos,nan,3/24/2020,2,0,0,2,0
 Laos,nan,3/25/2020,3,0,0,3,0
 Laos,nan,3/26/2020,6,0,0,6,0
@@ -6385,6 +6542,7 @@ Laos,nan,4/21/2020,19,0,2,17,0
 Laos,nan,4/22/2020,19,0,4,15,0
 Laos,nan,4/23/2020,19,0,4,15,0
 Laos,nan,4/24/2020,19,0,4,15,0
+Laos,nan,4/25/2020,19,0,7,12,0
 Latvia,nan,3/15/2020,30,0,1,29,0
 Latvia,nan,3/16/2020,34,0,1,33,0
 Latvia,nan,3/17/2020,49,0,1,48,0
@@ -6426,6 +6584,7 @@ Latvia,nan,4/21/2020,748,9,133,606,0
 Latvia,nan,4/22/2020,761,11,133,617,0
 Latvia,nan,4/23/2020,778,11,133,634,0
 Latvia,nan,4/24/2020,784,12,267,505,0
+Latvia,nan,4/25/2020,804,12,267,525,0
 Lebanon,nan,3/15/2020,110,3,1,106,0
 Lebanon,nan,3/16/2020,99,3,1,95,0
 Lebanon,nan,3/17/2020,120,3,3,114,0
@@ -6467,6 +6626,7 @@ Lebanon,nan,4/21/2020,677,21,108,548,0
 Lebanon,nan,4/22/2020,682,22,113,547,0
 Lebanon,nan,4/23/2020,688,22,140,526,0
 Lebanon,nan,4/24/2020,696,22,140,534,0
+Lebanon,nan,4/25/2020,704,24,143,537,0
 Liberia,nan,3/16/2020,1,0,0,1,0
 Liberia,nan,3/17/2020,1,0,0,1,0
 Liberia,nan,3/18/2020,2,0,0,2,0
@@ -6507,6 +6667,7 @@ Liberia,nan,4/21/2020,101,8,7,86,0
 Liberia,nan,4/22/2020,101,8,20,73,0
 Liberia,nan,4/23/2020,101,8,20,73,0
 Liberia,nan,4/24/2020,117,8,25,84,0
+Liberia,nan,4/25/2020,120,11,25,84,0
 Libya,nan,3/24/2020,1,0,0,1,0
 Libya,nan,3/25/2020,1,0,0,1,0
 Libya,nan,3/26/2020,1,0,0,1,0
@@ -6539,6 +6700,7 @@ Libya,nan,4/21/2020,51,1,15,35,0
 Libya,nan,4/22/2020,59,1,15,43,0
 Libya,nan,4/23/2020,60,2,15,43,0
 Libya,nan,4/24/2020,61,2,18,41,0
+Libya,nan,4/25/2020,61,2,18,41,0
 Liechtenstein,nan,3/15/2020,4,0,0,4,0
 Liechtenstein,nan,3/16/2020,4,0,0,4,0
 Liechtenstein,nan,3/17/2020,7,0,0,7,0
@@ -6580,6 +6742,7 @@ Liechtenstein,nan,4/21/2020,81,1,55,25,0
 Liechtenstein,nan,4/22/2020,81,1,55,25,0
 Liechtenstein,nan,4/23/2020,81,1,55,25,0
 Liechtenstein,nan,4/24/2020,81,1,55,25,0
+Liechtenstein,nan,4/25/2020,81,1,55,25,0
 Lithuania,nan,3/15/2020,12,0,1,11,0
 Lithuania,nan,3/16/2020,17,0,1,16,0
 Lithuania,nan,3/17/2020,25,0,1,24,0
@@ -6621,6 +6784,7 @@ Lithuania,nan,4/21/2020,1350,38,298,1014,0
 Lithuania,nan,4/22/2020,1370,38,357,975,0
 Lithuania,nan,4/23/2020,1398,40,399,959,0
 Lithuania,nan,4/24/2020,1410,40,430,940,0
+Lithuania,nan,4/25/2020,1426,41,460,925,0
 Luxembourg,nan,3/15/2020,59,1,0,58,0
 Luxembourg,nan,3/16/2020,77,1,0,76,0
 Luxembourg,nan,3/17/2020,140,1,0,139,0
@@ -6662,6 +6826,7 @@ Luxembourg,nan,4/21/2020,3618,78,670,2870,0
 Luxembourg,nan,4/22/2020,3654,80,711,2863,0
 Luxembourg,nan,4/23/2020,3665,83,728,2854,0
 Luxembourg,nan,4/24/2020,3695,85,3007,603,0
+Luxembourg,nan,4/25/2020,3711,85,3088,538,0
 MS Zaandam,nan,3/28/2020,2,0,0,2,0
 MS Zaandam,nan,3/29/2020,2,0,0,2,0
 MS Zaandam,nan,3/30/2020,2,0,0,2,0
@@ -6690,6 +6855,7 @@ MS Zaandam,nan,4/21/2020,9,2,0,7,0
 MS Zaandam,nan,4/22/2020,9,2,0,7,0
 MS Zaandam,nan,4/23/2020,9,2,0,7,0
 MS Zaandam,nan,4/24/2020,9,2,0,7,0
+MS Zaandam,nan,4/25/2020,9,2,0,7,0
 Madagascar,nan,3/20/2020,3,0,0,3,0
 Madagascar,nan,3/21/2020,3,0,0,3,0
 Madagascar,nan,3/22/2020,3,0,0,3,0
@@ -6726,6 +6892,7 @@ Madagascar,nan,4/21/2020,121,0,44,77,0
 Madagascar,nan,4/22/2020,121,0,52,69,0
 Madagascar,nan,4/23/2020,121,0,58,63,0
 Madagascar,nan,4/24/2020,122,0,61,61,0
+Madagascar,nan,4/25/2020,123,0,62,61,0
 Malawi,nan,4/02/2020,3,0,0,3,0
 Malawi,nan,4/03/2020,3,0,0,3,0
 Malawi,nan,4/04/2020,4,0,0,4,0
@@ -6749,6 +6916,7 @@ Malawi,nan,4/21/2020,18,2,3,13,0
 Malawi,nan,4/22/2020,23,3,3,17,0
 Malawi,nan,4/23/2020,33,3,3,27,0
 Malawi,nan,4/24/2020,33,3,4,26,0
+Malawi,nan,4/25/2020,33,3,4,26,0
 Malaysia,nan,3/15/2020,428,0,42,386,0
 Malaysia,nan,3/16/2020,566,0,42,524,0
 Malaysia,nan,3/17/2020,673,2,49,622,0
@@ -6790,6 +6958,7 @@ Malaysia,nan,4/21/2020,5482,92,3349,2041,0
 Malaysia,nan,4/22/2020,5532,93,3452,1987,0
 Malaysia,nan,4/23/2020,5603,95,3542,1966,0
 Malaysia,nan,4/24/2020,5691,96,3663,1932,0
+Malaysia,nan,4/25/2020,5742,98,3762,1882,0
 Maldives,nan,3/15/2020,13,0,0,13,0
 Maldives,nan,3/16/2020,13,0,0,13,0
 Maldives,nan,3/17/2020,13,0,0,13,0
@@ -6831,6 +7000,7 @@ Maldives,nan,4/21/2020,83,0,16,67,0
 Maldives,nan,4/22/2020,86,0,16,70,0
 Maldives,nan,4/23/2020,108,0,16,92,0
 Maldives,nan,4/24/2020,129,0,16,113,0
+Maldives,nan,4/25/2020,177,0,17,160,0
 Mali,nan,3/25/2020,2,0,0,2,0
 Mali,nan,3/26/2020,4,0,0,4,0
 Mali,nan,3/27/2020,11,0,0,11,0
@@ -6862,6 +7032,7 @@ Mali,nan,4/21/2020,258,14,57,187,0
 Mali,nan,4/22/2020,293,17,73,203,0
 Mali,nan,4/23/2020,309,21,77,211,0
 Mali,nan,4/24/2020,325,21,87,217,0
+Mali,nan,4/25/2020,370,21,91,258,0
 Malta,nan,3/15/2020,21,0,1,20,0
 Malta,nan,3/16/2020,30,0,2,28,0
 Malta,nan,3/17/2020,38,0,2,36,0
@@ -6903,6 +7074,7 @@ Malta,nan,4/21/2020,443,3,150,290,0
 Malta,nan,4/22/2020,444,3,165,276,0
 Malta,nan,4/23/2020,445,3,204,238,0
 Malta,nan,4/24/2020,447,3,223,221,0
+Malta,nan,4/25/2020,448,4,249,195,0
 Martinique,nan,3/15/2020,9,0,0,9,0
 Martinique,nan,3/16/2020,15,1,0,14,0
 Martinique,nan,3/17/2020,16,1,0,15,0
@@ -6951,6 +7123,7 @@ Mauritania,nan,4/21/2020,7,1,6,0,0
 Mauritania,nan,4/22/2020,7,1,6,0,0
 Mauritania,nan,4/23/2020,7,1,6,0,0
 Mauritania,nan,4/24/2020,7,1,6,0,0
+Mauritania,nan,4/25/2020,7,1,6,0,0
 Mauritius,nan,3/18/2020,3,0,0,3,0
 Mauritius,nan,3/19/2020,3,0,0,3,0
 Mauritius,nan,3/20/2020,12,0,0,12,0
@@ -6989,6 +7162,7 @@ Mauritius,nan,4/21/2020,328,9,243,76,0
 Mauritius,nan,4/22/2020,329,9,261,59,0
 Mauritius,nan,4/23/2020,331,9,266,56,0
 Mauritius,nan,4/24/2020,331,9,285,37,0
+Mauritius,nan,4/25/2020,331,9,295,27,0
 Mayotte,nan,3/16/2020,1,0,0,1,0
 Mayotte,nan,3/17/2020,1,0,0,1,0
 Mayotte,nan,3/18/2020,3,0,0,3,0
@@ -7036,6 +7210,7 @@ Mexico,nan,4/21/2020,8772,712,2627,5433,0
 Mexico,nan,4/22/2020,9501,857,2627,6017,0
 Mexico,nan,4/23/2020,11633,1069,2627,7937,0
 Mexico,nan,4/24/2020,12872,1221,7149,4502,0
+Mexico,nan,4/25/2020,13842,1305,7149,5388,0
 Moldova,nan,3/15/2020,23,0,0,23,0
 Moldova,nan,3/16/2020,23,0,0,23,0
 Moldova,nan,3/17/2020,30,0,1,29,0
@@ -7077,6 +7252,7 @@ Moldova,nan,4/21/2020,2614,72,505,2037,0
 Moldova,nan,4/22/2020,2778,75,560,2143,0
 Moldova,nan,4/23/2020,2926,80,661,2185,0
 Moldova,nan,4/24/2020,3110,84,755,2271,0
+Moldova,nan,4/25/2020,3304,94,825,2385,0
 Monaco,nan,3/15/2020,2,0,0,2,0
 Monaco,nan,3/16/2020,7,0,0,7,0
 Monaco,nan,3/17/2020,7,0,0,7,0
@@ -7118,6 +7294,7 @@ Monaco,nan,4/21/2020,94,3,26,65,0
 Monaco,nan,4/22/2020,94,3,26,65,0
 Monaco,nan,4/23/2020,94,4,35,55,0
 Monaco,nan,4/24/2020,94,4,41,49,0
+Monaco,nan,4/25/2020,94,4,42,48,0
 Mongolia,nan,3/15/2020,1,0,0,1,0
 Mongolia,nan,3/16/2020,1,0,0,1,0
 Mongolia,nan,3/17/2020,5,0,0,5,0
@@ -7159,6 +7336,7 @@ Mongolia,nan,4/21/2020,34,0,8,26,0
 Mongolia,nan,4/22/2020,35,0,8,27,0
 Mongolia,nan,4/23/2020,36,0,9,27,0
 Mongolia,nan,4/24/2020,37,0,9,28,0
+Mongolia,nan,4/25/2020,37,0,9,28,0
 Montenegro,nan,3/17/2020,2,0,0,2,0
 Montenegro,nan,3/18/2020,1,0,0,1,0
 Montenegro,nan,3/19/2020,3,0,0,3,0
@@ -7198,6 +7376,7 @@ Montenegro,nan,4/21/2020,313,5,101,207,0
 Montenegro,nan,4/22/2020,315,5,116,194,0
 Montenegro,nan,4/23/2020,316,5,123,188,0
 Montenegro,nan,4/24/2020,319,6,123,190,0
+Montenegro,nan,4/25/2020,320,6,153,161,0
 Morocco,nan,3/15/2020,28,1,1,26,0
 Morocco,nan,3/16/2020,29,1,1,27,0
 Morocco,nan,3/17/2020,38,2,1,35,0
@@ -7239,6 +7418,7 @@ Morocco,nan,4/21/2020,3209,145,393,2671,0
 Morocco,nan,4/22/2020,3446,149,417,2880,0
 Morocco,nan,4/23/2020,3568,155,456,2957,0
 Morocco,nan,4/24/2020,3758,158,486,3114,0
+Morocco,nan,4/25/2020,3897,159,537,3201,0
 Mozambique,nan,3/22/2020,1,0,0,1,0
 Mozambique,nan,3/23/2020,1,0,0,1,0
 Mozambique,nan,3/24/2020,3,0,0,3,0
@@ -7273,6 +7453,7 @@ Mozambique,nan,4/21/2020,39,0,8,31,0
 Mozambique,nan,4/22/2020,41,0,8,33,0
 Mozambique,nan,4/23/2020,46,0,9,37,0
 Mozambique,nan,4/24/2020,65,0,12,53,0
+Mozambique,nan,4/25/2020,70,0,12,58,0
 Namibia,nan,3/15/2020,2,0,0,2,0
 Namibia,nan,3/16/2020,2,0,0,2,0
 Namibia,nan,3/17/2020,2,0,0,2,0
@@ -7314,6 +7495,7 @@ Namibia,nan,4/21/2020,16,0,6,10,0
 Namibia,nan,4/22/2020,16,0,6,10,0
 Namibia,nan,4/23/2020,16,0,7,9,0
 Namibia,nan,4/24/2020,16,0,7,9,0
+Namibia,nan,4/25/2020,16,0,7,9,0
 Nepal,nan,3/15/2020,1,0,1,0,0
 Nepal,nan,3/16/2020,1,0,1,0,0
 Nepal,nan,3/17/2020,1,0,1,0,0
@@ -7355,6 +7537,7 @@ Nepal,nan,4/21/2020,43,0,4,39,0
 Nepal,nan,4/22/2020,45,0,7,38,0
 Nepal,nan,4/23/2020,48,0,10,38,0
 Nepal,nan,4/24/2020,49,0,11,38,0
+Nepal,nan,4/25/2020,49,0,12,37,0
 Netherlands,Aruba,3/18/2020,2,0,0,2,0
 Netherlands,Aruba,3/19/2020,2,0,0,2,0
 Netherlands,Aruba,3/20/2020,5,0,0,5,0
@@ -7393,6 +7576,7 @@ Netherlands,Aruba,4/21/2020,97,2,51,44,0
 Netherlands,Aruba,4/22/2020,100,2,68,30,0
 Netherlands,Aruba,4/23/2020,100,2,68,30,0
 Netherlands,Aruba,4/24/2020,100,2,69,29,0
+Netherlands,Aruba,4/25/2020,100,2,69,29,0
 Netherlands,"Bonaire, Sint Eustatius and Saba",4/02/2020,2,0,0,2,0
 Netherlands,"Bonaire, Sint Eustatius and Saba",4/03/2020,2,0,0,2,0
 Netherlands,"Bonaire, Sint Eustatius and Saba",4/04/2020,2,0,0,2,0
@@ -7416,6 +7600,7 @@ Netherlands,"Bonaire, Sint Eustatius and Saba",4/21/2020,5,0,0,5,0
 Netherlands,"Bonaire, Sint Eustatius and Saba",4/22/2020,5,0,0,5,0
 Netherlands,"Bonaire, Sint Eustatius and Saba",4/23/2020,5,0,0,5,0
 Netherlands,"Bonaire, Sint Eustatius and Saba",4/24/2020,5,0,0,5,0
+Netherlands,"Bonaire, Sint Eustatius and Saba",4/25/2020,5,0,0,5,0
 Netherlands,Curacao,3/16/2020,1,0,0,1,0
 Netherlands,Curacao,3/17/2020,3,0,0,3,0
 Netherlands,Curacao,3/18/2020,3,0,0,3,0
@@ -7456,6 +7641,7 @@ Netherlands,Curacao,4/21/2020,14,1,11,2,0
 Netherlands,Curacao,4/22/2020,14,1,11,2,0
 Netherlands,Curacao,4/23/2020,14,1,11,2,0
 Netherlands,Curacao,4/24/2020,16,1,11,4,0
+Netherlands,Curacao,4/25/2020,16,1,11,4,0
 Netherlands,Netherlands,3/16/2020,1413,24,2,1387,0
 Netherlands,Netherlands,3/17/2020,1705,43,2,1660,0
 Netherlands,Netherlands,3/18/2020,2051,58,2,1991,0
@@ -7498,6 +7684,7 @@ Netherlands,Sint Maarten,4/21/2020,67,10,12,45,0
 Netherlands,Sint Maarten,4/22/2020,71,11,22,38,0
 Netherlands,Sint Maarten,4/23/2020,73,12,22,39,0
 Netherlands,Sint Maarten,4/24/2020,73,12,22,39,0
+Netherlands,Sint Maarten,4/25/2020,73,12,22,39,0
 Netherlands,nan,3/15/2020,1135,20,2,1113,0
 Netherlands,nan,3/22/2020,4204,179,2,4023,0
 Netherlands,nan,3/23/2020,4749,213,2,4534,0
@@ -7533,6 +7720,7 @@ Netherlands,nan,4/21/2020,34134,3916,0,30218,0
 Netherlands,nan,4/22/2020,34842,4054,0,30788,0
 Netherlands,nan,4/23/2020,35729,4177,0,31552,0
 Netherlands,nan,4/24/2020,36535,4289,0,32246,0
+Netherlands,nan,4/25/2020,37190,4409,0,32781,0
 New Zealand,nan,3/15/2020,8,0,0,8,0
 New Zealand,nan,3/16/2020,8,0,0,8,0
 New Zealand,nan,3/17/2020,12,0,0,12,0
@@ -7574,6 +7762,7 @@ New Zealand,nan,4/21/2020,1445,13,1006,426,0
 New Zealand,nan,4/22/2020,1451,14,1036,401,0
 New Zealand,nan,4/23/2020,1456,17,1095,344,0
 New Zealand,nan,4/24/2020,1461,18,1118,325,0
+New Zealand,nan,4/25/2020,1470,18,1142,310,0
 Nicaragua,nan,3/19/2020,1,0,0,1,0
 Nicaragua,nan,3/20/2020,1,0,0,1,0
 Nicaragua,nan,3/21/2020,2,0,0,2,0
@@ -7611,6 +7800,7 @@ Nicaragua,nan,4/21/2020,10,2,7,1,0
 Nicaragua,nan,4/22/2020,10,2,7,1,0
 Nicaragua,nan,4/23/2020,11,3,7,1,0
 Nicaragua,nan,4/24/2020,11,3,7,1,0
+Nicaragua,nan,4/25/2020,12,3,7,2,0
 Niger,nan,3/20/2020,1,0,0,1,0
 Niger,nan,3/21/2020,1,0,0,1,0
 Niger,nan,3/22/2020,2,0,0,2,0
@@ -7647,6 +7837,7 @@ Niger,nan,4/21/2020,657,20,127,510,0
 Niger,nan,4/22/2020,662,22,193,447,0
 Niger,nan,4/23/2020,671,24,256,391,0
 Niger,nan,4/24/2020,681,24,289,368,0
+Niger,nan,4/25/2020,684,27,325,332,0
 Nigeria,nan,3/15/2020,2,0,0,2,0
 Nigeria,nan,3/16/2020,2,0,0,2,0
 Nigeria,nan,3/17/2020,3,0,0,3,0
@@ -7688,6 +7879,7 @@ Nigeria,nan,4/21/2020,665,22,188,455,0
 Nigeria,nan,4/22/2020,873,28,197,648,0
 Nigeria,nan,4/23/2020,981,31,197,753,0
 Nigeria,nan,4/24/2020,1095,32,208,855,0
+Nigeria,nan,4/25/2020,1182,35,222,925,0
 North Macedonia,nan,3/15/2020,14,0,1,13,0
 North Macedonia,nan,3/16/2020,18,0,1,17,0
 North Macedonia,nan,3/17/2020,26,0,1,25,0
@@ -7729,6 +7921,7 @@ North Macedonia,nan,4/21/2020,1231,55,224,952,0
 North Macedonia,nan,4/22/2020,1259,56,272,931,0
 North Macedonia,nan,4/23/2020,1300,56,301,943,0
 North Macedonia,nan,4/24/2020,1326,57,337,932,0
+North Macedonia,nan,4/25/2020,1367,59,374,934,0
 Norway,nan,3/15/2020,1221,3,1,1217,0
 Norway,nan,3/16/2020,1333,3,1,1329,0
 Norway,nan,3/17/2020,1463,3,1,1459,0
@@ -7770,6 +7963,7 @@ Norway,nan,4/21/2020,7191,182,32,6977,0
 Norway,nan,4/22/2020,7338,187,32,7119,0
 Norway,nan,4/23/2020,7401,194,32,7175,0
 Norway,nan,4/24/2020,7463,199,32,7232,0
+Norway,nan,4/25/2020,7499,201,32,7266,0
 Oman,nan,3/15/2020,22,0,9,13,0
 Oman,nan,3/16/2020,22,0,9,13,0
 Oman,nan,3/17/2020,24,0,9,15,0
@@ -7811,6 +8005,7 @@ Oman,nan,4/21/2020,1508,8,238,1262,0
 Oman,nan,4/22/2020,1614,8,238,1368,0
 Oman,nan,4/23/2020,1716,9,307,1400,0
 Oman,nan,4/24/2020,1790,10,325,1455,0
+Oman,nan,4/25/2020,1905,10,329,1566,0
 Pakistan,nan,3/15/2020,53,0,2,51,0
 Pakistan,nan,3/16/2020,136,0,2,134,0
 Pakistan,nan,3/17/2020,236,0,2,234,0
@@ -7852,6 +8047,7 @@ Pakistan,nan,4/21/2020,9565,201,2073,7291,0
 Pakistan,nan,4/22/2020,10076,212,2156,7708,0
 Pakistan,nan,4/23/2020,11155,237,2527,8391,0
 Pakistan,nan,4/24/2020,11940,253,2755,8932,0
+Pakistan,nan,4/25/2020,12723,269,2866,9588,0
 Panama,nan,3/15/2020,43,1,0,42,0
 Panama,nan,3/16/2020,55,1,0,54,0
 Panama,nan,3/17/2020,69,1,0,68,0
@@ -7893,6 +8089,7 @@ Panama,nan,4/21/2020,4658,136,204,4318,0
 Panama,nan,4/22/2020,4821,141,231,4449,0
 Panama,nan,4/23/2020,5166,146,271,4749,0
 Panama,nan,4/24/2020,5338,154,319,4865,0
+Panama,nan,4/25/2020,5538,159,338,5041,0
 Papua New Guinea,nan,3/20/2020,1,0,0,1,0
 Papua New Guinea,nan,3/21/2020,1,0,0,1,0
 Papua New Guinea,nan,3/22/2020,1,0,0,1,0
@@ -7929,6 +8126,7 @@ Papua New Guinea,nan,4/21/2020,7,0,0,7,0
 Papua New Guinea,nan,4/22/2020,8,0,0,8,0
 Papua New Guinea,nan,4/23/2020,8,0,0,8,0
 Papua New Guinea,nan,4/24/2020,8,0,0,8,0
+Papua New Guinea,nan,4/25/2020,8,0,0,8,0
 Paraguay,nan,3/15/2020,6,0,0,6,0
 Paraguay,nan,3/16/2020,8,0,0,8,0
 Paraguay,nan,3/17/2020,9,0,0,9,0
@@ -7970,6 +8168,7 @@ Paraguay,nan,4/21/2020,208,8,53,147,0
 Paraguay,nan,4/22/2020,213,9,62,142,0
 Paraguay,nan,4/23/2020,213,9,67,137,0
 Paraguay,nan,4/24/2020,223,9,78,136,0
+Paraguay,nan,4/25/2020,228,9,85,134,0
 Peru,nan,3/15/2020,43,0,0,43,0
 Peru,nan,3/16/2020,86,0,0,86,0
 Peru,nan,3/17/2020,117,0,1,116,0
@@ -8011,6 +8210,7 @@ Peru,nan,4/21/2020,17837,484,6982,10371,0
 Peru,nan,4/22/2020,19250,530,7027,11693,0
 Peru,nan,4/23/2020,20914,572,7422,12920,0
 Peru,nan,4/24/2020,21648,634,7496,13518,0
+Peru,nan,4/25/2020,25331,700,7797,16834,0
 Philippines,nan,3/15/2020,140,11,2,127,0
 Philippines,nan,3/16/2020,142,12,2,128,0
 Philippines,nan,3/17/2020,187,12,5,170,0
@@ -8052,6 +8252,7 @@ Philippines,nan,4/21/2020,6599,437,654,5508,0
 Philippines,nan,4/22/2020,6710,446,693,5571,0
 Philippines,nan,4/23/2020,6981,462,722,5797,0
 Philippines,nan,4/24/2020,7192,477,762,5953,0
+Philippines,nan,4/25/2020,7294,494,792,6008,0
 Poland,nan,3/15/2020,119,3,0,116,0
 Poland,nan,3/16/2020,177,4,13,160,0
 Poland,nan,3/17/2020,238,5,13,220,0
@@ -8093,6 +8294,7 @@ Poland,nan,4/21/2020,9856,401,1297,8158,0
 Poland,nan,4/22/2020,10169,426,1513,8230,0
 Poland,nan,4/23/2020,10511,454,1740,8317,0
 Poland,nan,4/24/2020,10892,494,1944,8454,0
+Poland,nan,4/25/2020,11273,524,2126,8623,0
 Portugal,nan,3/15/2020,245,0,2,243,0
 Portugal,nan,3/16/2020,331,0,3,328,0
 Portugal,nan,3/17/2020,448,1,3,444,0
@@ -8134,6 +8336,7 @@ Portugal,nan,4/21/2020,21379,762,917,19700,0
 Portugal,nan,4/22/2020,21982,785,1143,20054,0
 Portugal,nan,4/23/2020,22353,820,1201,20332,0
 Portugal,nan,4/24/2020,22797,854,1228,20715,0
+Portugal,nan,4/25/2020,23392,880,1277,21235,0
 Puerto Rico,nan,3/16/2020,3,0,0,3,0
 Puerto Rico,nan,3/17/2020,0,0,0,0,0
 Puerto Rico,nan,3/18/2020,0,0,0,0,0
@@ -8181,6 +8384,7 @@ Qatar,nan,4/21/2020,6533,9,614,5910,0
 Qatar,nan,4/22/2020,7141,10,689,6442,0
 Qatar,nan,4/23/2020,7764,10,750,7004,0
 Qatar,nan,4/24/2020,8525,10,809,7706,0
+Qatar,nan,4/25/2020,9358,10,929,8419,0
 Republic of the Congo,nan,3/16/2020,1,0,0,1,0
 Republic of the Congo,nan,3/17/2020,0,0,0,0,0
 Republic of the Congo,nan,3/18/2020,0,0,0,0,0
@@ -8235,6 +8439,7 @@ Romania,nan,4/21/2020,9242,498,2153,6591,0
 Romania,nan,4/22/2020,9710,524,2406,6780,0
 Romania,nan,4/23/2020,10096,545,2478,7073,0
 Romania,nan,4/24/2020,10417,567,2817,7033,0
+Romania,nan,4/25/2020,10635,601,2890,7144,0
 Russia,nan,3/15/2020,63,0,8,55,0
 Russia,nan,3/16/2020,90,0,8,82,0
 Russia,nan,3/17/2020,114,0,8,106,0
@@ -8276,6 +8481,7 @@ Russia,nan,4/21/2020,52763,456,3873,48434,0
 Russia,nan,4/22/2020,57999,513,4420,53066,0
 Russia,nan,4/23/2020,62773,555,4891,57327,0
 Russia,nan,4/24/2020,68622,615,5568,62439,0
+Russia,nan,4/25/2020,74588,681,6250,67657,0
 Rwanda,nan,3/15/2020,1,0,0,1,0
 Rwanda,nan,3/16/2020,5,0,0,5,0
 Rwanda,nan,3/17/2020,7,0,0,7,0
@@ -8317,6 +8523,7 @@ Rwanda,nan,4/21/2020,150,0,84,66,0
 Rwanda,nan,4/22/2020,153,0,84,69,0
 Rwanda,nan,4/23/2020,154,0,87,67,0
 Rwanda,nan,4/24/2020,176,0,87,89,0
+Rwanda,nan,4/25/2020,183,0,88,95,0
 Saint Kitts and Nevis,nan,3/25/2020,2,0,0,2,0
 Saint Kitts and Nevis,nan,3/26/2020,2,0,0,2,0
 Saint Kitts and Nevis,nan,3/27/2020,2,0,0,2,0
@@ -8348,6 +8555,7 @@ Saint Kitts and Nevis,nan,4/21/2020,15,0,0,15,0
 Saint Kitts and Nevis,nan,4/22/2020,15,0,1,14,0
 Saint Kitts and Nevis,nan,4/23/2020,15,0,1,14,0
 Saint Kitts and Nevis,nan,4/24/2020,15,0,2,13,0
+Saint Kitts and Nevis,nan,4/25/2020,15,0,2,13,0
 Saint Lucia,nan,3/15/2020,2,0,0,2,0
 Saint Lucia,nan,3/16/2020,2,0,0,2,0
 Saint Lucia,nan,3/17/2020,2,0,0,2,0
@@ -8389,6 +8597,7 @@ Saint Lucia,nan,4/21/2020,15,0,13,2,0
 Saint Lucia,nan,4/22/2020,15,0,15,0,0
 Saint Lucia,nan,4/23/2020,15,0,15,0,0
 Saint Lucia,nan,4/24/2020,15,0,15,0,0
+Saint Lucia,nan,4/25/2020,15,0,15,0,0
 Saint Vincent and the Grenadines,nan,3/15/2020,1,0,0,1,0
 Saint Vincent and the Grenadines,nan,3/16/2020,1,0,0,1,0
 Saint Vincent and the Grenadines,nan,3/17/2020,1,0,0,1,0
@@ -8430,6 +8639,7 @@ Saint Vincent and the Grenadines,nan,4/21/2020,12,0,2,10,0
 Saint Vincent and the Grenadines,nan,4/22/2020,13,0,3,10,0
 Saint Vincent and the Grenadines,nan,4/23/2020,13,0,3,10,0
 Saint Vincent and the Grenadines,nan,4/24/2020,14,0,5,9,0
+Saint Vincent and the Grenadines,nan,4/25/2020,14,0,5,9,0
 San Marino,nan,3/15/2020,101,5,4,92,0
 San Marino,nan,3/16/2020,109,7,4,98,0
 San Marino,nan,3/17/2020,109,7,4,98,0
@@ -8471,6 +8681,7 @@ San Marino,nan,4/21/2020,476,40,62,374,0
 San Marino,nan,4/22/2020,488,40,62,386,0
 San Marino,nan,4/23/2020,501,40,63,398,0
 San Marino,nan,4/24/2020,513,40,64,409,0
+San Marino,nan,4/25/2020,513,40,64,409,0
 Sao Tome and Principe,nan,4/06/2020,4,0,0,4,0
 Sao Tome and Principe,nan,4/07/2020,4,0,0,4,0
 Sao Tome and Principe,nan,4/08/2020,4,0,0,4,0
@@ -8490,6 +8701,7 @@ Sao Tome and Principe,nan,4/21/2020,4,0,0,4,0
 Sao Tome and Principe,nan,4/22/2020,4,0,0,4,0
 Sao Tome and Principe,nan,4/23/2020,4,0,0,4,0
 Sao Tome and Principe,nan,4/24/2020,4,0,0,4,0
+Sao Tome and Principe,nan,4/25/2020,4,0,0,4,0
 Saudi Arabia,nan,3/15/2020,103,0,1,102,0
 Saudi Arabia,nan,3/16/2020,118,0,2,116,0
 Saudi Arabia,nan,3/17/2020,171,0,6,165,0
@@ -8531,6 +8743,7 @@ Saudi Arabia,nan,4/21/2020,11631,109,1640,9882,0
 Saudi Arabia,nan,4/22/2020,12772,114,1812,10846,0
 Saudi Arabia,nan,4/23/2020,13930,121,1925,11884,0
 Saudi Arabia,nan,4/24/2020,15102,127,2049,12926,0
+Saudi Arabia,nan,4/25/2020,16299,136,2215,13948,0
 Senegal,nan,3/15/2020,24,0,1,23,0
 Senegal,nan,3/16/2020,24,0,2,22,0
 Senegal,nan,3/17/2020,26,0,2,24,0
@@ -8572,6 +8785,7 @@ Senegal,nan,4/21/2020,412,5,242,165,0
 Senegal,nan,4/22/2020,442,6,253,183,0
 Senegal,nan,4/23/2020,479,6,257,216,0
 Senegal,nan,4/24/2020,545,7,262,276,0
+Senegal,nan,4/25/2020,614,7,276,331,0
 Serbia,nan,3/15/2020,48,0,0,48,0
 Serbia,nan,3/16/2020,55,0,1,54,0
 Serbia,nan,3/17/2020,65,0,1,64,0
@@ -8613,6 +8827,7 @@ Serbia,nan,4/21/2020,6630,125,870,5635,0
 Serbia,nan,4/22/2020,6630,125,870,5635,0
 Serbia,nan,4/23/2020,6630,125,870,5635,0
 Serbia,nan,4/24/2020,6630,125,870,5635,0
+Serbia,nan,4/25/2020,6630,125,870,5635,0
 Seychelles,nan,3/15/2020,2,0,0,2,0
 Seychelles,nan,3/16/2020,3,0,0,3,0
 Seychelles,nan,3/17/2020,4,0,0,4,0
@@ -8654,6 +8869,7 @@ Seychelles,nan,4/21/2020,11,0,5,6,0
 Seychelles,nan,4/22/2020,11,0,5,6,0
 Seychelles,nan,4/23/2020,11,0,6,5,0
 Seychelles,nan,4/24/2020,11,0,6,5,0
+Seychelles,nan,4/25/2020,11,0,6,5,0
 Sierra Leone,nan,3/31/2020,1,0,0,1,0
 Sierra Leone,nan,4/01/2020,2,0,0,2,0
 Sierra Leone,nan,4/02/2020,2,0,0,2,0
@@ -8679,6 +8895,7 @@ Sierra Leone,nan,4/21/2020,50,0,6,44,0
 Sierra Leone,nan,4/22/2020,61,0,6,55,0
 Sierra Leone,nan,4/23/2020,64,1,10,53,0
 Sierra Leone,nan,4/24/2020,82,2,10,70,0
+Sierra Leone,nan,4/25/2020,82,2,10,70,0
 Singapore,nan,3/15/2020,226,0,105,121,0
 Singapore,nan,3/16/2020,243,0,109,134,0
 Singapore,nan,3/17/2020,266,0,114,152,0
@@ -8720,6 +8937,7 @@ Singapore,nan,4/21/2020,9125,11,839,8275,0
 Singapore,nan,4/22/2020,10141,12,896,9233,0
 Singapore,nan,4/23/2020,11178,12,924,10242,0
 Singapore,nan,4/24/2020,12075,12,956,11107,0
+Singapore,nan,4/25/2020,12693,12,1002,11679,0
 Slovakia,nan,3/15/2020,54,0,0,54,0
 Slovakia,nan,3/16/2020,63,0,0,63,0
 Slovakia,nan,3/17/2020,72,0,0,72,0
@@ -8761,6 +8979,7 @@ Slovakia,nan,4/21/2020,1199,14,258,927,0
 Slovakia,nan,4/22/2020,1244,14,284,946,0
 Slovakia,nan,4/23/2020,1325,15,288,1022,0
 Slovakia,nan,4/24/2020,1360,17,355,988,0
+Slovakia,nan,4/25/2020,1373,17,386,970,0
 Slovenia,nan,3/15/2020,219,1,0,218,0
 Slovenia,nan,3/16/2020,253,1,0,252,0
 Slovenia,nan,3/17/2020,275,1,0,274,0
@@ -8802,6 +9021,7 @@ Slovenia,nan,4/21/2020,1344,77,197,1070,0
 Slovenia,nan,4/22/2020,1353,79,205,1069,0
 Slovenia,nan,4/23/2020,1366,79,211,1076,0
 Slovenia,nan,4/24/2020,1373,80,211,1082,0
+Slovenia,nan,4/25/2020,1388,81,219,1088,0
 Somalia,nan,3/16/2020,1,0,0,1,0
 Somalia,nan,3/17/2020,1,0,0,1,0
 Somalia,nan,3/18/2020,1,0,0,1,0
@@ -8842,6 +9062,7 @@ Somalia,nan,4/21/2020,286,8,4,274,0
 Somalia,nan,4/22/2020,286,8,4,274,0
 Somalia,nan,4/23/2020,328,16,8,304,0
 Somalia,nan,4/24/2020,328,16,8,304,0
+Somalia,nan,4/25/2020,390,18,8,364,0
 South Africa,nan,3/15/2020,51,0,0,51,0
 South Africa,nan,3/16/2020,62,0,0,62,0
 South Africa,nan,3/17/2020,62,0,0,62,0
@@ -8883,6 +9104,7 @@ South Africa,nan,4/21/2020,3465,58,1055,2352,0
 South Africa,nan,4/22/2020,3635,65,1055,2515,0
 South Africa,nan,4/23/2020,3953,75,1473,2405,0
 South Africa,nan,4/24/2020,4220,79,1473,2668,0
+South Africa,nan,4/25/2020,4361,86,1473,2802,0
 South Sudan,nan,4/05/2020,1,0,0,1,0
 South Sudan,nan,4/06/2020,1,0,0,1,0
 South Sudan,nan,4/07/2020,2,0,0,2,0
@@ -8903,6 +9125,7 @@ South Sudan,nan,4/21/2020,4,0,0,4,0
 South Sudan,nan,4/22/2020,4,0,0,4,0
 South Sudan,nan,4/23/2020,5,0,0,5,0
 South Sudan,nan,4/24/2020,5,0,0,5,0
+South Sudan,nan,4/25/2020,5,0,0,5,0
 Spain,nan,3/15/2020,7798,289,517,6992,0
 Spain,nan,3/16/2020,9942,342,530,9070,0
 Spain,nan,3/17/2020,11748,533,1028,10187,0
@@ -8944,6 +9167,7 @@ Spain,nan,4/21/2020,204178,21282,82514,100382,0
 Spain,nan,4/22/2020,208389,21717,85915,100757,0
 Spain,nan,4/23/2020,213024,22157,89250,101617,0
 Spain,nan,4/24/2020,219764,22524,92355,104885,0
+Spain,nan,4/25/2020,223759,22902,95708,105149,0
 Sri Lanka,nan,3/15/2020,18,0,1,17,0
 Sri Lanka,nan,3/16/2020,28,0,1,27,0
 Sri Lanka,nan,3/17/2020,44,0,1,43,0
@@ -8985,6 +9209,7 @@ Sri Lanka,nan,4/21/2020,310,7,102,201,0
 Sri Lanka,nan,4/22/2020,330,7,105,218,0
 Sri Lanka,nan,4/23/2020,368,7,107,254,0
 Sri Lanka,nan,4/24/2020,420,7,109,304,0
+Sri Lanka,nan,4/25/2020,460,7,118,335,0
 Sudan,nan,3/15/2020,1,1,0,0,0
 Sudan,nan,3/16/2020,1,1,0,0,0
 Sudan,nan,3/17/2020,1,1,0,0,0
@@ -9026,6 +9251,7 @@ Sudan,nan,4/21/2020,107,12,8,87,0
 Sudan,nan,4/22/2020,140,13,12,115,0
 Sudan,nan,4/23/2020,174,16,14,144,0
 Sudan,nan,4/24/2020,174,16,14,144,0
+Sudan,nan,4/25/2020,213,17,19,177,0
 Suriname,nan,3/15/2020,1,0,0,1,0
 Suriname,nan,3/16/2020,1,0,0,1,0
 Suriname,nan,3/17/2020,1,0,0,1,0
@@ -9067,6 +9293,7 @@ Suriname,nan,4/21/2020,10,1,6,3,0
 Suriname,nan,4/22/2020,10,1,6,3,0
 Suriname,nan,4/23/2020,10,1,6,3,0
 Suriname,nan,4/24/2020,10,1,7,2,0
+Suriname,nan,4/25/2020,10,1,7,2,0
 Sweden,nan,3/15/2020,1022,3,1,1018,0
 Sweden,nan,3/16/2020,1103,6,1,1096,0
 Sweden,nan,3/17/2020,1190,7,1,1182,0
@@ -9108,6 +9335,7 @@ Sweden,nan,4/21/2020,15322,1765,550,13007,0
 Sweden,nan,4/22/2020,16004,1937,550,13517,0
 Sweden,nan,4/23/2020,16755,2021,550,14184,0
 Sweden,nan,4/24/2020,17567,2152,1005,14410,0
+Sweden,nan,4/25/2020,18177,2192,1005,14980,0
 Switzerland,nan,3/15/2020,2200,14,4,2182,0
 Switzerland,nan,3/16/2020,2200,14,4,2182,0
 Switzerland,nan,3/17/2020,2700,27,4,2669,0
@@ -9149,6 +9377,7 @@ Switzerland,nan,4/21/2020,28063,1478,19400,7185,0
 Switzerland,nan,4/22/2020,28268,1509,19900,6859,0
 Switzerland,nan,4/23/2020,28496,1549,20600,6347,0
 Switzerland,nan,4/24/2020,28677,1589,21000,6088,0
+Switzerland,nan,4/25/2020,28894,1599,21300,5995,0
 Syria,nan,3/22/2020,1,0,0,1,0
 Syria,nan,3/23/2020,1,0,0,1,0
 Syria,nan,3/24/2020,1,0,0,1,0
@@ -9183,6 +9412,7 @@ Syria,nan,4/21/2020,42,3,6,33,0
 Syria,nan,4/22/2020,42,3,6,33,0
 Syria,nan,4/23/2020,42,3,6,33,0
 Syria,nan,4/24/2020,42,3,6,33,0
+Syria,nan,4/25/2020,42,3,11,28,0
 Taiwan*,nan,3/15/2020,59,1,20,38,0
 Taiwan*,nan,3/16/2020,67,1,20,46,0
 Taiwan*,nan,3/17/2020,77,1,22,54,0
@@ -9224,6 +9454,7 @@ Taiwan*,nan,4/21/2020,425,6,217,202,0
 Taiwan*,nan,4/22/2020,426,6,236,184,0
 Taiwan*,nan,4/23/2020,427,6,253,168,0
 Taiwan*,nan,4/24/2020,428,6,264,158,0
+Taiwan*,nan,4/25/2020,429,6,275,148,0
 Tanzania,nan,3/16/2020,1,0,0,1,0
 Tanzania,nan,3/17/2020,1,0,0,1,0
 Tanzania,nan,3/18/2020,3,0,0,3,0
@@ -9264,6 +9495,7 @@ Tanzania,nan,4/21/2020,254,10,11,233,0
 Tanzania,nan,4/22/2020,284,10,11,263,0
 Tanzania,nan,4/23/2020,284,10,11,263,0
 Tanzania,nan,4/24/2020,299,10,48,241,0
+Tanzania,nan,4/25/2020,299,10,48,241,0
 Thailand,nan,3/15/2020,114,1,35,78,0
 Thailand,nan,3/16/2020,147,1,35,111,0
 Thailand,nan,3/17/2020,177,1,41,135,0
@@ -9305,6 +9537,7 @@ Thailand,nan,4/21/2020,2811,48,2108,655,0
 Thailand,nan,4/22/2020,2826,49,2352,425,0
 Thailand,nan,4/23/2020,2839,50,2430,359,0
 Thailand,nan,4/24/2020,2907,51,2547,309,0
+Thailand,nan,4/25/2020,2907,51,2547,309,0
 The Bahamas,nan,3/16/2020,1,0,0,1,0
 The Bahamas,nan,3/17/2020,1,0,0,1,0
 The Bahamas,nan,3/18/2020,1,0,0,1,0
@@ -9350,6 +9583,7 @@ Timor-Leste,nan,4/21/2020,23,0,1,22,0
 Timor-Leste,nan,4/22/2020,23,0,1,22,0
 Timor-Leste,nan,4/23/2020,23,0,1,22,0
 Timor-Leste,nan,4/24/2020,24,0,2,22,0
+Timor-Leste,nan,4/25/2020,24,0,2,22,0
 Togo,nan,3/15/2020,1,0,0,1,0
 Togo,nan,3/16/2020,1,0,0,1,0
 Togo,nan,3/17/2020,1,0,0,1,0
@@ -9391,6 +9625,7 @@ Togo,nan,4/21/2020,86,6,56,24,0
 Togo,nan,4/22/2020,88,6,56,26,0
 Togo,nan,4/23/2020,88,6,59,23,0
 Togo,nan,4/24/2020,90,6,59,25,0
+Togo,nan,4/25/2020,96,6,62,28,0
 Trinidad and Tobago,nan,3/15/2020,2,0,0,2,0
 Trinidad and Tobago,nan,3/16/2020,4,0,0,4,0
 Trinidad and Tobago,nan,3/17/2020,5,0,0,5,0
@@ -9432,6 +9667,7 @@ Trinidad and Tobago,nan,4/21/2020,115,8,28,79,0
 Trinidad and Tobago,nan,4/22/2020,115,8,37,70,0
 Trinidad and Tobago,nan,4/23/2020,115,8,48,59,0
 Trinidad and Tobago,nan,4/24/2020,115,8,48,59,0
+Trinidad and Tobago,nan,4/25/2020,115,8,53,54,0
 Tunisia,nan,3/15/2020,18,0,0,18,0
 Tunisia,nan,3/16/2020,20,0,0,20,0
 Tunisia,nan,3/17/2020,24,0,0,24,0
@@ -9473,6 +9709,7 @@ Tunisia,nan,4/21/2020,884,38,148,698,0
 Tunisia,nan,4/22/2020,909,38,190,681,0
 Tunisia,nan,4/23/2020,918,38,190,690,0
 Tunisia,nan,4/24/2020,922,38,194,690,0
+Tunisia,nan,4/25/2020,939,38,207,694,0
 Turkey,nan,3/15/2020,6,0,0,6,0
 Turkey,nan,3/16/2020,18,0,0,18,0
 Turkey,nan,3/17/2020,47,1,0,46,0
@@ -9514,6 +9751,7 @@ Turkey,nan,4/21/2020,95591,2259,14918,78414,0
 Turkey,nan,4/22/2020,98674,2376,16477,79821,0
 Turkey,nan,4/23/2020,101790,2491,18491,80808,0
 Turkey,nan,4/24/2020,104912,2600,21737,80575,0
+Turkey,nan,4/25/2020,107773,2706,25582,79485,0
 US,Alabama,3/15/2020,12,0,0,12,0
 US,Alabama,3/16/2020,29,0,0,29,0
 US,Alabama,3/17/2020,39,0,0,39,0
@@ -9555,6 +9793,7 @@ US,Alabama,4/21/2020,5317,183,0,5134,0
 US,Alabama,4/22/2020,5593,196,0,5397,0
 US,Alabama,4/23/2020,5832,202,0,5630,0
 US,Alabama,4/24/2020,6026,209,0,5817,0
+US,Alabama,4/25/2020,6026,209,0,5817,0
 US,Alaska,3/15/2020,1,0,0,1,0
 US,Alaska,3/16/2020,1,0,0,1,0
 US,Alaska,3/17/2020,3,0,0,3,0
@@ -9596,6 +9835,7 @@ US,Alaska,4/21/2020,329,9,0,324,-4
 US,Alaska,4/22/2020,335,9,0,330,-4
 US,Alaska,4/23/2020,337,9,0,332,-4
 US,Alaska,4/24/2020,339,9,0,334,-4
+US,Alaska,4/25/2020,339,9,0,334,-4
 US,American Samoa,3/22/2020,0,0,0,0,0
 US,American Samoa,3/23/2020,0,0,0,0,0
 US,American Samoa,3/24/2020,0,0,0,0,0
@@ -9646,6 +9886,7 @@ US,Arizona,4/21/2020,5256,208,0,5048,0
 US,Arizona,4/22/2020,5473,231,0,5242,0
 US,Arizona,4/23/2020,5772,249,0,5523,0
 US,Arizona,4/24/2020,6045,266,0,5779,0
+US,Arizona,4/25/2020,6286,273,0,6013,0
 US,Arkansas,3/15/2020,16,0,0,16,0
 US,Arkansas,3/16/2020,22,0,0,22,0
 US,Arkansas,3/17/2020,22,0,0,22,0
@@ -9687,6 +9928,7 @@ US,Arkansas,4/21/2020,1990,42,0,1948,0
 US,Arkansas,4/22/2020,2276,42,0,2234,0
 US,Arkansas,4/23/2020,2599,45,0,2554,0
 US,Arkansas,4/24/2020,2810,47,0,2763,0
+US,Arkansas,4/25/2020,2911,48,0,2863,0
 US,California,3/15/2020,426,6,6,414,0
 US,California,3/16/2020,557,7,6,544,0
 US,California,3/17/2020,698,12,6,680,0
@@ -9728,6 +9970,7 @@ US,California,4/21/2020,35465,1282,0,34185,-2
 US,California,4/22/2020,37344,1421,0,35925,-2
 US,California,4/23/2020,39561,1533,0,38030,-2
 US,California,4/24/2020,41355,1621,0,39736,-2
+US,California,4/25/2020,42368,1689,0,40681,-2
 US,Colorado,3/15/2020,131,1,0,130,0
 US,Colorado,3/16/2020,160,1,0,159,0
 US,Colorado,3/17/2020,160,2,0,158,0
@@ -9769,6 +10012,7 @@ US,Colorado,4/21/2020,10473,483,0,9990,0
 US,Colorado,4/22/2020,10891,506,0,10385,0
 US,Colorado,4/23/2020,11278,552,0,10728,-2
 US,Colorado,4/24/2020,12256,674,0,11584,-2
+US,Colorado,4/25/2020,12968,684,0,12286,-2
 US,Connecticut,3/15/2020,24,0,0,24,0
 US,Connecticut,3/16/2020,30,0,0,30,0
 US,Connecticut,3/17/2020,68,0,0,68,0
@@ -9810,6 +10054,7 @@ US,Connecticut,4/21/2020,20360,1423,0,18937,0
 US,Connecticut,4/22/2020,22469,1544,0,20925,0
 US,Connecticut,4/23/2020,23100,1639,0,21461,0
 US,Connecticut,4/24/2020,23936,1767,0,22169,0
+US,Connecticut,4/25/2020,24583,1865,0,22718,0
 US,Delaware,3/15/2020,7,0,0,7,0
 US,Delaware,3/16/2020,8,0,0,8,0
 US,Delaware,3/17/2020,16,0,0,16,0
@@ -9851,6 +10096,7 @@ US,Delaware,4/21/2020,2931,82,0,2849,0
 US,Delaware,4/22/2020,3200,89,0,3111,0
 US,Delaware,4/23/2020,3308,92,0,3216,0
 US,Delaware,4/24/2020,3442,100,0,3342,0
+US,Delaware,4/25/2020,3576,112,0,3464,0
 US,Diamond Princess,3/15/2020,46,0,0,46,0
 US,Diamond Princess,3/16/2020,47,0,0,47,0
 US,Diamond Princess,3/17/2020,47,0,0,47,0
@@ -9892,6 +10138,7 @@ US,Diamond Princess,4/21/2020,49,0,0,49,0
 US,Diamond Princess,4/22/2020,49,0,0,49,0
 US,Diamond Princess,4/23/2020,49,0,0,49,0
 US,Diamond Princess,4/24/2020,49,0,0,49,0
+US,Diamond Princess,4/25/2020,49,0,0,49,0
 US,District of Columbia,3/15/2020,16,0,0,16,0
 US,District of Columbia,3/16/2020,22,0,0,22,0
 US,District of Columbia,3/17/2020,22,0,0,22,0
@@ -9933,6 +10180,7 @@ US,District of Columbia,4/21/2020,3098,112,0,2986,0
 US,District of Columbia,4/22/2020,3206,127,0,3079,0
 US,District of Columbia,4/23/2020,3361,139,0,3222,0
 US,District of Columbia,4/24/2020,3528,153,0,3375,0
+US,District of Columbia,4/25/2020,3699,165,0,3534,0
 US,Florida,3/15/2020,115,4,0,111,0
 US,Florida,3/16/2020,155,5,0,150,0
 US,Florida,3/17/2020,216,6,0,210,0
@@ -9974,6 +10222,7 @@ US,Florida,4/21/2020,27869,867,0,27002,0
 US,Florida,4/22/2020,28309,893,0,27416,0
 US,Florida,4/23/2020,29648,987,0,28661,0
 US,Florida,4/24/2020,30533,1046,0,29487,0
+US,Florida,4/25/2020,30839,1055,0,29784,0
 US,Georgia,3/15/2020,99,1,0,98,0
 US,Georgia,3/16/2020,121,1,0,120,0
 US,Georgia,3/17/2020,146,1,0,145,0
@@ -10015,6 +10264,7 @@ US,Georgia,4/21/2020,19881,798,0,19083,0
 US,Georgia,4/22/2020,21214,848,0,20366,0
 US,Georgia,4/23/2020,21883,881,0,21002,0
 US,Georgia,4/24/2020,22491,899,0,21592,0
+US,Georgia,4/25/2020,23222,907,0,22315,0
 US,Grand Princess,3/15/2020,21,0,0,21,0
 US,Grand Princess,3/16/2020,20,0,0,20,0
 US,Grand Princess,3/17/2020,21,0,0,21,0
@@ -10056,6 +10306,7 @@ US,Grand Princess,4/21/2020,103,0,0,103,0
 US,Grand Princess,4/22/2020,103,0,0,103,0
 US,Grand Princess,4/23/2020,103,3,0,100,0
 US,Grand Princess,4/24/2020,103,3,0,100,0
+US,Grand Princess,4/25/2020,103,3,0,100,0
 US,Guam,3/15/2020,3,0,0,3,0
 US,Guam,3/16/2020,3,0,0,3,0
 US,Guam,3/17/2020,3,0,0,3,0
@@ -10097,6 +10348,7 @@ US,Guam,4/21/2020,136,5,0,131,0
 US,Guam,4/22/2020,136,5,0,131,0
 US,Guam,4/23/2020,139,5,0,134,0
 US,Guam,4/24/2020,141,5,0,136,0
+US,Guam,4/25/2020,141,5,0,136,0
 US,Hawaii,3/15/2020,6,0,0,6,0
 US,Hawaii,3/16/2020,7,0,0,7,0
 US,Hawaii,3/17/2020,10,0,0,10,0
@@ -10138,6 +10390,7 @@ US,Hawaii,4/21/2020,586,10,0,576,0
 US,Hawaii,4/22/2020,592,12,0,580,0
 US,Hawaii,4/23/2020,596,12,0,584,0
 US,Hawaii,4/24/2020,601,13,0,588,0
+US,Hawaii,4/25/2020,605,13,0,592,0
 US,Idaho,3/15/2020,5,0,0,5,0
 US,Idaho,3/16/2020,5,0,0,5,0
 US,Idaho,3/17/2020,8,0,0,8,0
@@ -10179,6 +10432,7 @@ US,Idaho,4/21/2020,1736,48,0,1688,0
 US,Idaho,4/22/2020,1766,51,0,1715,0
 US,Idaho,4/23/2020,1836,54,0,1782,0
 US,Idaho,4/24/2020,1870,54,0,1816,0
+US,Idaho,4/25/2020,1887,56,0,1831,0
 US,Illinois,3/15/2020,93,0,2,91,0
 US,Illinois,3/16/2020,105,0,2,103,0
 US,Illinois,3/17/2020,161,1,2,158,0
@@ -10220,6 +10474,7 @@ US,Illinois,4/21/2020,33059,1468,0,31591,0
 US,Illinois,4/22/2020,35107,1565,0,33542,0
 US,Illinois,4/23/2020,36937,1688,0,35249,0
 US,Illinois,4/24/2020,39658,1795,0,37863,0
+US,Illinois,4/25/2020,41777,1875,0,39902,0
 US,Indiana,3/15/2020,20,0,0,20,0
 US,Indiana,3/16/2020,25,1,0,24,0
 US,Indiana,3/17/2020,30,2,0,28,0
@@ -10261,6 +10516,7 @@ US,Indiana,4/21/2020,12097,635,0,11462,0
 US,Indiana,4/22/2020,12438,666,0,11772,0
 US,Indiana,4/23/2020,13039,706,0,12333,0
 US,Indiana,4/24/2020,13681,741,0,12940,0
+US,Indiana,4/25/2020,14399,786,0,13613,0
 US,Iowa,3/15/2020,18,0,0,18,0
 US,Iowa,3/16/2020,23,0,0,23,0
 US,Iowa,3/17/2020,23,0,0,23,0
@@ -10302,6 +10558,7 @@ US,Iowa,4/21/2020,3641,83,0,3558,0
 US,Iowa,4/22/2020,3748,90,0,3658,0
 US,Iowa,4/23/2020,3924,96,0,3828,0
 US,Iowa,4/24/2020,4445,107,0,4338,0
+US,Iowa,4/25/2020,5092,112,0,4980,0
 US,Kansas,3/15/2020,8,1,0,7,0
 US,Kansas,3/16/2020,11,1,0,10,0
 US,Kansas,3/17/2020,18,1,0,17,0
@@ -10343,6 +10600,7 @@ US,Kansas,4/21/2020,2164,109,0,2055,0
 US,Kansas,4/22/2020,2331,112,0,2219,0
 US,Kansas,4/23/2020,2721,113,0,2608,0
 US,Kansas,4/24/2020,2959,118,0,2841,0
+US,Kansas,4/25/2020,3135,120,0,3015,0
 US,Kentucky,3/15/2020,20,0,0,20,0
 US,Kentucky,3/16/2020,21,1,1,19,0
 US,Kentucky,3/17/2020,26,1,1,24,0
@@ -10384,6 +10642,7 @@ US,Kentucky,4/21/2020,3204,171,0,3033,0
 US,Kentucky,4/22/2020,3378,185,0,3193,0
 US,Kentucky,4/23/2020,3479,191,0,3288,0
 US,Kentucky,4/24/2020,3779,200,0,3579,0
+US,Kentucky,4/25/2020,3915,205,0,3710,0
 US,Louisiana,3/15/2020,91,2,0,89,0
 US,Louisiana,3/16/2020,136,3,0,133,0
 US,Louisiana,3/17/2020,196,4,0,192,0
@@ -10425,6 +10684,7 @@ US,Louisiana,4/21/2020,24854,1405,0,23449,0
 US,Louisiana,4/22/2020,25258,1473,0,23785,0
 US,Louisiana,4/23/2020,25739,1599,0,24140,0
 US,Louisiana,4/24/2020,26140,1660,0,24480,0
+US,Louisiana,4/25/2020,26512,1707,0,24805,0
 US,Maine,3/15/2020,12,0,0,12,0
 US,Maine,3/16/2020,17,0,0,17,0
 US,Maine,3/17/2020,32,0,0,32,0
@@ -10466,6 +10726,7 @@ US,Maine,4/21/2020,888,36,0,852,0
 US,Maine,4/22/2020,907,39,0,868,0
 US,Maine,4/23/2020,937,44,0,893,0
 US,Maine,4/24/2020,965,47,0,918,0
+US,Maine,4/25/2020,965,47,0,918,0
 US,Maryland,3/15/2020,32,0,0,32,0
 US,Maryland,3/16/2020,41,0,3,38,0
 US,Maryland,3/17/2020,60,0,3,57,0
@@ -10507,6 +10768,7 @@ US,Maryland,4/21/2020,14193,652,0,13661,-120
 US,Maryland,4/22/2020,14775,698,0,14185,-108
 US,Maryland,4/23/2020,15737,748,0,15095,-106
 US,Maryland,4/24/2020,16616,798,0,15929,-111
+US,Maryland,4/25/2020,17766,875,0,17015,-124
 US,Massachusetts,3/15/2020,164,0,1,163,0
 US,Massachusetts,3/16/2020,197,0,1,196,0
 US,Massachusetts,3/17/2020,218,0,1,217,0
@@ -10548,6 +10810,7 @@ US,Massachusetts,4/21/2020,41199,1961,0,39238,0
 US,Massachusetts,4/22/2020,42944,2182,0,40762,0
 US,Massachusetts,4/23/2020,46023,2360,0,43663,0
 US,Massachusetts,4/24/2020,50969,2556,0,48413,0
+US,Massachusetts,4/25/2020,53348,2730,0,50618,0
 US,Michigan,3/15/2020,33,0,0,33,0
 US,Michigan,3/16/2020,53,0,0,53,0
 US,Michigan,3/17/2020,65,0,0,65,0
@@ -10589,6 +10852,7 @@ US,Michigan,4/21/2020,32667,2575,0,30092,0
 US,Michigan,4/22/2020,33966,2813,0,31153,0
 US,Michigan,4/23/2020,35296,2977,0,32319,0
 US,Michigan,4/24/2020,36641,3085,0,33556,0
+US,Michigan,4/25/2020,37074,3155,0,33919,0
 US,Minnesota,3/15/2020,35,0,0,35,0
 US,Minnesota,3/16/2020,54,0,0,54,0
 US,Minnesota,3/17/2020,60,0,0,60,0
@@ -10630,6 +10894,7 @@ US,Minnesota,4/21/2020,2567,160,0,2407,0
 US,Minnesota,4/22/2020,2722,179,0,2543,0
 US,Minnesota,4/23/2020,2942,200,0,2742,0
 US,Minnesota,4/24/2020,3185,221,0,2964,0
+US,Minnesota,4/25/2020,3446,244,0,3202,0
 US,Mississippi,3/15/2020,10,0,0,10,0
 US,Mississippi,3/16/2020,13,0,0,13,0
 US,Mississippi,3/17/2020,21,0,0,21,0
@@ -10671,6 +10936,7 @@ US,Mississippi,4/21/2020,4716,183,0,4533,0
 US,Mississippi,4/22/2020,4894,193,0,4701,0
 US,Mississippi,4/23/2020,5153,201,0,4952,0
 US,Mississippi,4/24/2020,5434,209,0,5225,0
+US,Mississippi,4/25/2020,5718,221,0,5497,0
 US,Missouri,3/15/2020,5,0,0,5,0
 US,Missouri,3/16/2020,6,0,0,6,0
 US,Missouri,3/17/2020,11,0,0,11,0
@@ -10712,6 +10978,7 @@ US,Missouri,4/21/2020,6066,224,0,5842,0
 US,Missouri,4/22/2020,6277,238,0,6039,0
 US,Missouri,4/23/2020,6506,252,0,6254,0
 US,Missouri,4/24/2020,6788,272,0,6516,0
+US,Missouri,4/25/2020,6935,281,0,6654,0
 US,Montana,3/15/2020,7,0,0,7,0
 US,Montana,3/16/2020,7,0,0,7,0
 US,Montana,3/17/2020,9,0,0,9,0
@@ -10753,6 +11020,7 @@ US,Montana,4/21/2020,437,12,0,425,0
 US,Montana,4/22/2020,439,14,0,425,0
 US,Montana,4/23/2020,442,14,0,428,0
 US,Montana,4/24/2020,444,14,0,430,0
+US,Montana,4/25/2020,445,14,0,431,0
 US,Nebraska,3/15/2020,17,0,0,17,0
 US,Nebraska,3/16/2020,18,0,0,18,0
 US,Nebraska,3/17/2020,21,0,0,21,0
@@ -10794,6 +11062,7 @@ US,Nebraska,4/21/2020,1685,33,0,1667,-15
 US,Nebraska,4/22/2020,1813,38,0,1783,-8
 US,Nebraska,4/23/2020,2202,47,0,2157,-2
 US,Nebraska,4/24/2020,2424,50,0,2386,-12
+US,Nebraska,4/25/2020,2719,50,0,2681,-12
 US,Nevada,3/15/2020,24,0,0,24,0
 US,Nevada,3/16/2020,45,1,0,44,0
 US,Nevada,3/17/2020,56,1,0,55,0
@@ -10835,6 +11104,7 @@ US,Nevada,4/21/2020,3937,163,0,3774,0
 US,Nevada,4/22/2020,4081,172,0,3909,0
 US,Nevada,4/23/2020,4208,195,0,4014,-1
 US,Nevada,4/24/2020,4398,197,0,4201,0
+US,Nevada,4/25/2020,4539,205,0,4334,0
 US,New Hampshire,3/15/2020,13,0,0,13,0
 US,New Hampshire,3/16/2020,17,0,0,17,0
 US,New Hampshire,3/17/2020,26,0,0,26,0
@@ -10876,6 +11146,7 @@ US,New Hampshire,4/21/2020,1490,42,0,1473,-25
 US,New Hampshire,4/22/2020,1588,48,0,1568,-28
 US,New Hampshire,4/23/2020,1670,51,0,1656,-37
 US,New Hampshire,4/24/2020,1720,53,0,1714,-47
+US,New Hampshire,4/25/2020,1797,53,0,1785,-41
 US,New Jersey,3/15/2020,98,2,0,96,0
 US,New Jersey,3/16/2020,178,2,1,175,0
 US,New Jersey,3/17/2020,267,3,1,263,0
@@ -10917,6 +11188,7 @@ US,New Jersey,4/21/2020,92387,4753,0,87634,0
 US,New Jersey,4/22/2020,95914,5150,0,90764,0
 US,New Jersey,4/23/2020,100025,5426,0,94599,0
 US,New Jersey,4/24/2020,102196,5683,0,96513,0
+US,New Jersey,4/25/2020,105498,5914,0,99584,0
 US,New Mexico,3/15/2020,13,0,0,13,0
 US,New Mexico,3/16/2020,17,0,0,17,0
 US,New Mexico,3/17/2020,23,0,0,23,0
@@ -10958,6 +11230,7 @@ US,New Mexico,4/21/2020,1971,58,0,1913,0
 US,New Mexico,4/22/2020,2210,71,0,2139,0
 US,New Mexico,4/23/2020,2379,78,0,2301,0
 US,New Mexico,4/24/2020,2521,84,0,2437,0
+US,New Mexico,4/25/2020,2660,93,0,2567,0
 US,New York,3/15/2020,732,3,0,729,0
 US,New York,3/16/2020,967,10,0,957,0
 US,New York,3/17/2020,1706,13,0,1693,0
@@ -10999,6 +11272,7 @@ US,New York,4/21/2020,258361,19104,0,239260,-3
 US,New York,4/22/2020,263292,19413,0,243879,0
 US,New York,4/23/2020,263460,20973,0,242487,0
 US,New York,4/24/2020,271590,21411,0,250179,0
+US,New York,4/25/2020,282143,22009,0,260134,0
 US,North Carolina,3/15/2020,33,0,0,33,0
 US,North Carolina,3/16/2020,38,0,0,38,0
 US,North Carolina,3/17/2020,64,0,0,64,0
@@ -11040,6 +11314,7 @@ US,North Carolina,4/21/2020,7134,245,0,6889,0
 US,North Carolina,4/22/2020,7495,265,0,7230,0
 US,North Carolina,4/23/2020,7820,281,0,7539,0
 US,North Carolina,4/24/2020,8290,294,0,7996,0
+US,North Carolina,4/25/2020,8768,305,0,8463,0
 US,North Dakota,3/15/2020,1,0,0,1,0
 US,North Dakota,3/16/2020,1,0,0,1,0
 US,North Dakota,3/17/2020,3,0,0,3,0
@@ -11081,6 +11356,7 @@ US,North Dakota,4/21/2020,644,13,0,631,0
 US,North Dakota,4/22/2020,679,14,0,665,0
 US,North Dakota,4/23/2020,709,15,0,694,0
 US,North Dakota,4/24/2020,748,15,0,733,0
+US,North Dakota,4/25/2020,803,16,0,787,0
 US,Northern Mariana Islands,3/22/2020,0,0,0,0,0
 US,Northern Mariana Islands,3/23/2020,0,0,0,0,0
 US,Northern Mariana Islands,3/24/2020,0,0,0,0,0
@@ -11115,6 +11391,7 @@ US,Northern Mariana Islands,4/21/2020,14,2,0,12,0
 US,Northern Mariana Islands,4/22/2020,14,2,0,12,0
 US,Northern Mariana Islands,4/23/2020,14,2,0,12,0
 US,Northern Mariana Islands,4/24/2020,14,2,0,12,0
+US,Northern Mariana Islands,4/25/2020,14,2,0,12,0
 US,Ohio,3/15/2020,37,0,0,37,0
 US,Ohio,3/16/2020,50,0,0,50,0
 US,Ohio,3/17/2020,67,0,0,67,0
@@ -11156,6 +11433,7 @@ US,Ohio,4/21/2020,13725,557,0,13168,0
 US,Ohio,4/22/2020,14117,610,0,13507,0
 US,Ohio,4/23/2020,14694,656,0,14038,0
 US,Ohio,4/24/2020,15169,690,0,14479,0
+US,Ohio,4/25/2020,15587,711,0,14876,0
 US,Oklahoma,3/15/2020,7,0,0,7,0
 US,Oklahoma,3/16/2020,10,0,0,10,0
 US,Oklahoma,3/17/2020,19,0,0,19,0
@@ -11197,6 +11475,7 @@ US,Oklahoma,4/21/2020,2807,164,0,2643,0
 US,Oklahoma,4/22/2020,2894,170,0,2724,0
 US,Oklahoma,4/23/2020,3017,179,0,2838,0
 US,Oklahoma,4/24/2020,3121,188,0,2933,0
+US,Oklahoma,4/25/2020,3194,194,0,3000,0
 US,Oregon,3/15/2020,36,1,0,35,0
 US,Oregon,3/16/2020,39,1,0,38,0
 US,Oregon,3/17/2020,66,1,0,65,0
@@ -11238,6 +11517,7 @@ US,Oregon,4/21/2020,2004,78,0,1926,0
 US,Oregon,4/22/2020,2059,78,0,1981,0
 US,Oregon,4/23/2020,2127,83,0,2044,0
 US,Oregon,4/24/2020,2177,86,0,2091,0
+US,Oregon,4/25/2020,2253,87,0,2166,0
 US,Pennsylvania,3/15/2020,66,0,0,66,0
 US,Pennsylvania,3/16/2020,77,0,0,77,0
 US,Pennsylvania,3/17/2020,112,0,0,112,0
@@ -11279,6 +11559,7 @@ US,Pennsylvania,4/21/2020,35249,1614,0,33635,0
 US,Pennsylvania,4/22/2020,36082,1673,0,34409,0
 US,Pennsylvania,4/23/2020,38379,1724,0,36655,0
 US,Pennsylvania,4/24/2020,40208,1747,0,38461,0
+US,Pennsylvania,4/25/2020,41153,1793,0,39360,0
 US,Puerto Rico,3/15/2020,5,0,0,5,0
 US,Puerto Rico,3/16/2020,5,0,0,5,0
 US,Puerto Rico,3/17/2020,5,0,0,5,0
@@ -11320,6 +11601,7 @@ US,Puerto Rico,4/21/2020,1298,64,0,1234,0
 US,Puerto Rico,4/22/2020,1252,63,0,1189,0
 US,Puerto Rico,4/23/2020,1416,69,0,1347,0
 US,Puerto Rico,4/24/2020,1276,77,0,1199,0
+US,Puerto Rico,4/25/2020,1307,83,0,1224,0
 US,Recovered,3/24/2020,0,0,348,0,-348
 US,Recovered,3/25/2020,0,0,361,0,-361
 US,Recovered,3/26/2020,0,0,681,0,-681
@@ -11352,6 +11634,7 @@ US,Recovered,4/21/2020,0,0,75204,0,-75204
 US,Recovered,4/22/2020,0,0,77366,0,-77366
 US,Recovered,4/23/2020,0,0,80203,0,-80203
 US,Recovered,4/24/2020,0,0,99079,0,-99079
+US,Recovered,4/25/2020,0,0,100372,0,-100372
 US,Rhode Island,3/15/2020,20,0,0,20,0
 US,Rhode Island,3/16/2020,21,0,0,21,0
 US,Rhode Island,3/17/2020,23,0,0,23,0
@@ -11393,6 +11676,7 @@ US,Rhode Island,4/21/2020,5500,171,0,5329,0
 US,Rhode Island,4/22/2020,5841,181,0,5660,0
 US,Rhode Island,4/23/2020,6256,189,0,6067,0
 US,Rhode Island,4/24/2020,6699,202,0,6497,0
+US,Rhode Island,4/25/2020,7129,215,0,6914,0
 US,South Carolina,3/15/2020,28,0,0,28,0
 US,South Carolina,3/16/2020,33,1,0,32,0
 US,South Carolina,3/17/2020,47,1,0,46,0
@@ -11434,6 +11718,7 @@ US,South Carolina,4/21/2020,4439,124,0,4315,0
 US,South Carolina,4/22/2020,4761,140,0,4621,0
 US,South Carolina,4/23/2020,4917,150,0,4767,0
 US,South Carolina,4/24/2020,5070,157,0,4913,0
+US,South Carolina,4/25/2020,5253,166,0,5087,0
 US,South Dakota,3/15/2020,9,1,0,8,0
 US,South Dakota,3/16/2020,10,1,0,9,0
 US,South Dakota,3/17/2020,11,1,0,10,0
@@ -11475,6 +11760,7 @@ US,South Dakota,4/21/2020,1755,8,0,1747,0
 US,South Dakota,4/22/2020,1858,9,0,1849,0
 US,South Dakota,4/23/2020,1956,9,0,1947,0
 US,South Dakota,4/24/2020,2040,10,0,2030,0
+US,South Dakota,4/25/2020,2147,10,0,2137,0
 US,Tennessee,3/15/2020,39,0,0,39,0
 US,Tennessee,3/16/2020,52,0,0,52,0
 US,Tennessee,3/17/2020,74,0,0,74,0
@@ -11516,6 +11802,7 @@ US,Tennessee,4/21/2020,7394,157,0,7237,0
 US,Tennessee,4/22/2020,7394,157,0,7237,0
 US,Tennessee,4/23/2020,8266,171,0,8095,0
 US,Tennessee,4/24/2020,8728,169,0,8559,0
+US,Tennessee,4/25/2020,9189,177,0,9012,0
 US,Texas,3/15/2020,72,0,0,72,0
 US,Texas,3/16/2020,85,0,0,85,0
 US,Texas,3/17/2020,110,1,0,109,0
@@ -11557,6 +11844,7 @@ US,Texas,4/21/2020,20574,533,0,20041,0
 US,Texas,4/22/2020,21321,556,0,20765,0
 US,Texas,4/23/2020,22650,604,0,22046,0
 US,Texas,4/24/2020,23642,624,0,23018,0
+US,Texas,4/25/2020,24153,638,0,23515,0
 US,US,3/18/2020,1,0,106,-105,0
 US,US,3/19/2020,1,0,108,-107,0
 US,US,3/20/2020,1,0,147,-146,0
@@ -11606,6 +11894,7 @@ US,Utah,4/21/2020,3297,32,0,3265,0
 US,Utah,4/22/2020,3445,32,0,3413,0
 US,Utah,4/23/2020,3612,35,0,3577,0
 US,Utah,4/24/2020,3782,39,0,3743,0
+US,Utah,4/25/2020,3948,41,0,3907,0
 US,Vermont,3/15/2020,8,0,0,8,0
 US,Vermont,3/16/2020,12,0,0,12,0
 US,Vermont,3/17/2020,12,0,0,12,0
@@ -11647,6 +11936,7 @@ US,Vermont,4/21/2020,818,40,0,778,0
 US,Vermont,4/22/2020,823,40,0,783,0
 US,Vermont,4/23/2020,825,43,0,782,0
 US,Vermont,4/24/2020,827,44,0,783,0
+US,Vermont,4/25/2020,843,46,0,797,0
 US,Virgin Islands,3/16/2020,1,0,0,1,0
 US,Virgin Islands,3/17/2020,2,0,0,2,0
 US,Virgin Islands,3/18/2020,2,0,0,2,0
@@ -11685,6 +11975,7 @@ US,Virgin Islands,4/21/2020,53,3,0,50,0
 US,Virgin Islands,4/22/2020,54,3,0,51,0
 US,Virgin Islands,4/23/2020,54,3,0,51,0
 US,Virgin Islands,4/24/2020,54,3,0,51,0
+US,Virgin Islands,4/25/2020,55,3,0,52,0
 US,"Virgin Islands, U.S.",3/15/2020,1,0,0,1,0
 US,Virginia,3/15/2020,45,1,0,44,0
 US,Virginia,3/16/2020,49,1,0,48,0
@@ -11727,6 +12018,7 @@ US,Virginia,4/21/2020,9630,324,0,9446,-140
 US,Virginia,4/22/2020,10266,349,0,9917,0
 US,Virginia,4/23/2020,10998,373,0,10625,0
 US,Virginia,4/24/2020,11594,411,0,11183,0
+US,Virginia,4/25/2020,12366,437,0,11929,0
 US,Washington,3/15/2020,643,40,1,602,0
 US,Washington,3/16/2020,904,48,1,855,0
 US,Washington,3/17/2020,1076,55,1,1020,0
@@ -11768,6 +12060,7 @@ US,Washington,4/21/2020,12563,664,0,11899,0
 US,Washington,4/22/2020,12051,647,0,11404,0
 US,Washington,4/23/2020,12753,711,0,12042,0
 US,Washington,4/24/2020,12977,722,0,12255,0
+US,Washington,4/25/2020,13319,737,0,12582,0
 US,West Virginia,3/15/2020,0,0,0,0,0
 US,West Virginia,3/16/2020,0,0,0,0,0
 US,West Virginia,3/17/2020,1,0,0,1,0
@@ -11809,6 +12102,7 @@ US,West Virginia,4/21/2020,908,26,0,901,-19
 US,West Virginia,4/22/2020,939,27,0,932,-20
 US,West Virginia,4/23/2020,981,31,0,950,0
 US,West Virginia,4/24/2020,1010,32,0,978,0
+US,West Virginia,4/25/2020,1010,32,0,978,0
 US,Wisconsin,3/15/2020,32,0,1,31,0
 US,Wisconsin,3/16/2020,47,0,1,46,0
 US,Wisconsin,3/17/2020,72,0,1,71,0
@@ -11850,6 +12144,7 @@ US,Wisconsin,4/21/2020,4625,244,0,4381,0
 US,Wisconsin,4/22/2020,4845,248,0,4597,0
 US,Wisconsin,4/23/2020,5052,258,0,4794,0
 US,Wisconsin,4/24/2020,5356,263,0,5093,0
+US,Wisconsin,4/25/2020,5687,266,0,5421,0
 US,Wuhan Evacuee,3/22/2020,4,0,0,4,0
 US,Wuhan Evacuee,3/23/2020,4,0,0,4,0
 US,Wuhan Evacuee,3/24/2020,4,0,0,4,0
@@ -11894,6 +12189,7 @@ US,Wyoming,4/21/2020,443,2,0,442,-1
 US,Wyoming,4/22/2020,447,6,0,446,-5
 US,Wyoming,4/23/2020,453,7,0,452,-6
 US,Wyoming,4/24/2020,473,7,0,472,-6
+US,Wyoming,4/25/2020,491,7,0,490,-6
 Uganda,nan,3/21/2020,1,0,0,1,0
 Uganda,nan,3/22/2020,1,0,0,1,0
 Uganda,nan,3/23/2020,9,0,0,9,0
@@ -11929,6 +12225,7 @@ Uganda,nan,4/21/2020,61,0,38,23,0
 Uganda,nan,4/22/2020,63,0,45,18,0
 Uganda,nan,4/23/2020,74,0,46,28,0
 Uganda,nan,4/24/2020,75,0,46,29,0
+Uganda,nan,4/25/2020,75,0,46,29,0
 Ukraine,nan,3/15/2020,3,1,0,2,0
 Ukraine,nan,3/16/2020,7,1,0,6,0
 Ukraine,nan,3/17/2020,14,2,0,12,0
@@ -11969,7 +12266,8 @@ Ukraine,nan,4/20/2020,5710,151,359,5200,0
 Ukraine,nan,4/21/2020,6125,161,367,5597,0
 Ukraine,nan,4/22/2020,6592,174,424,5994,0
 Ukraine,nan,4/23/2020,7170,187,504,6479,0
-Ukraine,nan,4/24/2020,8125,201,782,7142,0
+Ukraine,nan,4/24/2020,7647,193,601,6853,0
+Ukraine,nan,4/25/2020,8125,201,782,7142,0
 United Arab Emirates,nan,3/15/2020,98,0,23,75,0
 United Arab Emirates,nan,3/16/2020,98,0,23,75,0
 United Arab Emirates,nan,3/17/2020,98,0,23,75,0
@@ -12011,6 +12309,7 @@ United Arab Emirates,nan,4/21/2020,7755,46,1443,6266,0
 United Arab Emirates,nan,4/22/2020,8238,52,1546,6640,0
 United Arab Emirates,nan,4/23/2020,8756,56,1637,7063,0
 United Arab Emirates,nan,4/24/2020,9281,64,1760,7457,0
+United Arab Emirates,nan,4/25/2020,9813,71,1887,7855,0
 United Kingdom,Anguilla,3/28/2020,2,0,0,2,0
 United Kingdom,Anguilla,3/29/2020,2,0,0,2,0
 United Kingdom,Anguilla,3/30/2020,2,0,0,2,0
@@ -12039,6 +12338,7 @@ United Kingdom,Anguilla,4/21/2020,3,0,1,2,0
 United Kingdom,Anguilla,4/22/2020,3,0,1,2,0
 United Kingdom,Anguilla,4/23/2020,3,0,1,2,0
 United Kingdom,Anguilla,4/24/2020,3,0,1,2,0
+United Kingdom,Anguilla,4/25/2020,3,0,1,2,0
 United Kingdom,Bermuda,3/19/2020,2,0,0,2,0
 United Kingdom,Bermuda,3/20/2020,2,0,0,2,0
 United Kingdom,Bermuda,3/21/2020,2,0,0,2,0
@@ -12076,6 +12376,7 @@ United Kingdom,Bermuda,4/21/2020,86,5,37,44,0
 United Kingdom,Bermuda,4/22/2020,99,5,39,55,0
 United Kingdom,Bermuda,4/23/2020,99,5,39,55,0
 United Kingdom,Bermuda,4/24/2020,99,5,39,55,0
+United Kingdom,Bermuda,4/25/2020,109,5,39,65,0
 United Kingdom,British Virgin Islands,3/28/2020,2,0,0,2,0
 United Kingdom,British Virgin Islands,3/29/2020,2,0,0,2,0
 United Kingdom,British Virgin Islands,3/30/2020,2,0,0,2,0
@@ -12104,6 +12405,7 @@ United Kingdom,British Virgin Islands,4/21/2020,5,1,3,1,0
 United Kingdom,British Virgin Islands,4/22/2020,5,1,3,1,0
 United Kingdom,British Virgin Islands,4/23/2020,5,1,3,1,0
 United Kingdom,British Virgin Islands,4/24/2020,5,1,3,1,0
+United Kingdom,British Virgin Islands,4/25/2020,6,1,3,2,0
 United Kingdom,Cayman Islands,3/16/2020,1,1,0,0,0
 United Kingdom,Cayman Islands,3/17/2020,1,1,0,0,0
 United Kingdom,Cayman Islands,3/18/2020,1,1,0,0,0
@@ -12144,6 +12446,7 @@ United Kingdom,Cayman Islands,4/21/2020,66,1,7,58,0
 United Kingdom,Cayman Islands,4/22/2020,66,1,7,58,0
 United Kingdom,Cayman Islands,4/23/2020,66,1,7,58,0
 United Kingdom,Cayman Islands,4/24/2020,70,1,8,61,0
+United Kingdom,Cayman Islands,4/25/2020,70,1,8,61,0
 United Kingdom,Channel Islands,3/15/2020,3,0,0,3,0
 United Kingdom,Channel Islands,3/16/2020,6,0,0,6,0
 United Kingdom,Channel Islands,3/17/2020,6,0,0,6,0
@@ -12185,6 +12488,7 @@ United Kingdom,Channel Islands,4/21/2020,496,24,256,216,0
 United Kingdom,Channel Islands,4/22/2020,498,28,285,185,0
 United Kingdom,Channel Islands,4/23/2020,521,29,295,197,0
 United Kingdom,Channel Islands,4/24/2020,523,34,295,194,0
+United Kingdom,Channel Islands,4/25/2020,525,35,332,158,0
 United Kingdom,Falkland Islands (Islas Malvinas),4/04/2020,1,0,0,1,0
 United Kingdom,Falkland Islands (Islas Malvinas),4/05/2020,2,0,0,2,0
 United Kingdom,Falkland Islands (Islas Malvinas),4/06/2020,2,0,0,2,0
@@ -12206,6 +12510,7 @@ United Kingdom,Falkland Islands (Malvinas),4/21/2020,11,0,3,8,0
 United Kingdom,Falkland Islands (Malvinas),4/22/2020,11,0,3,8,0
 United Kingdom,Falkland Islands (Malvinas),4/23/2020,12,0,11,1,0
 United Kingdom,Falkland Islands (Malvinas),4/24/2020,13,0,11,2,0
+United Kingdom,Falkland Islands (Malvinas),4/25/2020,13,0,11,2,0
 United Kingdom,Gibraltar,3/15/2020,1,0,1,0,0
 United Kingdom,Gibraltar,3/16/2020,1,0,1,0,0
 United Kingdom,Gibraltar,3/17/2020,3,0,1,2,0
@@ -12247,6 +12552,7 @@ United Kingdom,Gibraltar,4/21/2020,132,0,120,12,0
 United Kingdom,Gibraltar,4/22/2020,132,0,127,5,0
 United Kingdom,Gibraltar,4/23/2020,133,0,129,4,0
 United Kingdom,Gibraltar,4/24/2020,133,0,131,2,0
+United Kingdom,Gibraltar,4/25/2020,136,0,131,5,0
 United Kingdom,Isle of Man,3/20/2020,1,0,0,1,0
 United Kingdom,Isle of Man,3/21/2020,1,0,0,1,0
 United Kingdom,Isle of Man,3/22/2020,5,0,0,5,0
@@ -12283,6 +12589,7 @@ United Kingdom,Isle of Man,4/21/2020,307,9,209,89,0
 United Kingdom,Isle of Man,4/22/2020,307,15,212,80,0
 United Kingdom,Isle of Man,4/23/2020,307,16,221,70,0
 United Kingdom,Isle of Man,4/24/2020,308,18,230,60,0
+United Kingdom,Isle of Man,4/25/2020,308,18,243,47,0
 United Kingdom,Montserrat,3/18/2020,1,0,0,1,0
 United Kingdom,Montserrat,3/19/2020,1,0,0,1,0
 United Kingdom,Montserrat,3/20/2020,1,0,0,1,0
@@ -12321,6 +12628,7 @@ United Kingdom,Montserrat,4/21/2020,11,0,2,9,0
 United Kingdom,Montserrat,4/22/2020,11,0,2,9,0
 United Kingdom,Montserrat,4/23/2020,11,0,2,9,0
 United Kingdom,Montserrat,4/24/2020,11,1,2,8,0
+United Kingdom,Montserrat,4/25/2020,11,1,2,8,0
 United Kingdom,Turks and Caicos Islands,3/28/2020,4,0,0,4,0
 United Kingdom,Turks and Caicos Islands,3/29/2020,4,0,0,4,0
 United Kingdom,Turks and Caicos Islands,3/30/2020,5,0,0,5,0
@@ -12349,6 +12657,7 @@ United Kingdom,Turks and Caicos Islands,4/21/2020,11,1,0,10,0
 United Kingdom,Turks and Caicos Islands,4/22/2020,11,1,4,6,0
 United Kingdom,Turks and Caicos Islands,4/23/2020,11,1,4,6,0
 United Kingdom,Turks and Caicos Islands,4/24/2020,11,1,4,6,0
+United Kingdom,Turks and Caicos Islands,4/25/2020,11,1,4,6,0
 United Kingdom,United Kingdom,3/15/2020,1140,21,18,1101,0
 United Kingdom,United Kingdom,3/16/2020,1543,55,20,1468,0
 United Kingdom,United Kingdom,3/17/2020,1950,55,52,1843,0
@@ -12390,6 +12699,7 @@ United Kingdom,nan,4/21/2020,129044,17337,0,111707,0
 United Kingdom,nan,4/22/2020,133495,18100,0,115395,0
 United Kingdom,nan,4/23/2020,138078,18738,0,119340,0
 United Kingdom,nan,4/24/2020,143464,19506,0,123958,0
+United Kingdom,nan,4/25/2020,148377,20319,0,128058,0
 Uruguay,nan,3/15/2020,4,0,0,4,0
 Uruguay,nan,3/16/2020,8,0,0,8,0
 Uruguay,nan,3/17/2020,29,0,0,29,0
@@ -12431,6 +12741,7 @@ Uruguay,nan,4/21/2020,535,11,313,211,0
 Uruguay,nan,4/22/2020,543,12,324,207,0
 Uruguay,nan,4/23/2020,557,12,354,191,0
 Uruguay,nan,4/24/2020,563,12,369,182,0
+Uruguay,nan,4/25/2020,596,14,370,212,0
 Uzbekistan,nan,3/15/2020,1,0,0,1,0
 Uzbekistan,nan,3/16/2020,6,0,0,6,0
 Uzbekistan,nan,3/17/2020,10,0,0,10,0
@@ -12472,6 +12783,7 @@ Uzbekistan,nan,4/21/2020,1678,6,357,1315,0
 Uzbekistan,nan,4/22/2020,1716,7,450,1259,0
 Uzbekistan,nan,4/23/2020,1758,7,561,1190,0
 Uzbekistan,nan,4/24/2020,1804,8,621,1175,0
+Uzbekistan,nan,4/25/2020,1862,8,707,1147,0
 Venezuela,nan,3/15/2020,10,0,0,10,0
 Venezuela,nan,3/16/2020,17,0,0,17,0
 Venezuela,nan,3/17/2020,33,0,0,33,0
@@ -12513,6 +12825,7 @@ Venezuela,nan,4/21/2020,285,10,117,158,0
 Venezuela,nan,4/22/2020,288,10,122,156,0
 Venezuela,nan,4/23/2020,311,10,126,175,0
 Venezuela,nan,4/24/2020,318,10,132,176,0
+Venezuela,nan,4/25/2020,323,10,132,181,0
 Vietnam,nan,3/15/2020,56,0,16,40,0
 Vietnam,nan,3/16/2020,61,0,16,45,0
 Vietnam,nan,3/17/2020,66,0,16,50,0
@@ -12554,6 +12867,7 @@ Vietnam,nan,4/21/2020,268,0,216,52,0
 Vietnam,nan,4/22/2020,268,0,223,45,0
 Vietnam,nan,4/23/2020,268,0,224,44,0
 Vietnam,nan,4/24/2020,270,0,220,50,0
+Vietnam,nan,4/25/2020,270,0,225,45,0
 West Bank and Gaza,nan,3/26/2020,84,1,17,66,0
 West Bank and Gaza,nan,3/27/2020,91,1,17,73,0
 West Bank and Gaza,nan,3/28/2020,98,1,18,79,0
@@ -12584,6 +12898,7 @@ West Bank and Gaza,nan,4/21/2020,466,4,71,391,0
 West Bank and Gaza,nan,4/22/2020,474,4,71,399,0
 West Bank and Gaza,nan,4/23/2020,480,4,92,384,0
 West Bank and Gaza,nan,4/24/2020,484,4,92,388,0
+West Bank and Gaza,nan,4/25/2020,342,2,92,248,0
 Western Sahara,nan,4/05/2020,4,0,0,4,0
 Western Sahara,nan,4/06/2020,4,0,0,4,0
 Western Sahara,nan,4/07/2020,4,0,0,4,0
@@ -12604,6 +12919,7 @@ Western Sahara,nan,4/21/2020,6,0,0,6,0
 Western Sahara,nan,4/22/2020,6,0,0,6,0
 Western Sahara,nan,4/23/2020,6,0,5,1,0
 Western Sahara,nan,4/24/2020,6,0,5,1,0
+Western Sahara,nan,4/25/2020,6,0,5,1,0
 Yemen,nan,4/10/2020,1,0,0,1,0
 Yemen,nan,4/11/2020,1,0,0,1,0
 Yemen,nan,4/12/2020,1,0,0,1,0
@@ -12619,6 +12935,7 @@ Yemen,nan,4/21/2020,1,0,0,1,0
 Yemen,nan,4/22/2020,1,0,0,1,0
 Yemen,nan,4/23/2020,1,0,0,1,0
 Yemen,nan,4/24/2020,1,0,1,0,0
+Yemen,nan,4/25/2020,1,0,1,0,0
 Zambia,nan,3/18/2020,2,0,0,2,0
 Zambia,nan,3/19/2020,2,0,0,2,0
 Zambia,nan,3/20/2020,2,0,0,2,0
@@ -12657,6 +12974,7 @@ Zambia,nan,4/21/2020,70,3,35,32,0
 Zambia,nan,4/22/2020,74,3,35,36,0
 Zambia,nan,4/23/2020,76,3,37,36,0
 Zambia,nan,4/24/2020,84,3,37,44,0
+Zambia,nan,4/25/2020,84,3,37,44,0
 Zimbabwe,nan,3/20/2020,1,0,0,1,0
 Zimbabwe,nan,3/21/2020,3,0,0,3,0
 Zimbabwe,nan,3/22/2020,3,0,0,3,0
@@ -12693,6 +13011,7 @@ Zimbabwe,nan,4/21/2020,28,3,2,23,0
 Zimbabwe,nan,4/22/2020,28,4,2,22,0
 Zimbabwe,nan,4/23/2020,28,4,2,22,0
 Zimbabwe,nan,4/24/2020,29,4,2,23,0
+Zimbabwe,nan,4/25/2020,31,4,2,25,0
 occupied Palestinian territory,nan,3/15/2020,0,0,0,0,0
 occupied Palestinian territory,nan,3/16/2020,0,0,0,0,0
 occupied Palestinian territory,nan,3/17/2020,0,0,0,0,0
